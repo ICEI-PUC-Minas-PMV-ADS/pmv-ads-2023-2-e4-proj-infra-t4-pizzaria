@@ -90,7 +90,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-009| Na página de checkout, deverá ter um botão que ao ser clicado, levará ao usuário de volta para a Home (o mesmo vale para o mobile) | ALTA |
 |RF-010| Na Home, deverá ter um botão que ao ser clicado, o cliente será direcionado para o checkout  (o mesmo vale para o mobile) | ALTA |
 |RF-011| Na versão mobile, deverá conter um botão que ao ser clicado, o usuário é levado ao discador de seu telefone com o número da pizzaria | ALTA |
-|RF-012| A versão Web deverá ser responsiva | Baixa |
 
 
 ### Requisitos não Funcionais
