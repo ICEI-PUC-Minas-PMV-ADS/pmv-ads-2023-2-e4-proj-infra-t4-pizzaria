@@ -71,7 +71,7 @@ Usar o seguinte modelo:
 ![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
-## Requisitos
+## 🎯 Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto. Para determinar a prioridade de requisitos, aplicar uma técnica de priorização de requisitos e detalhar como a técnica foi aplicada.
 
@@ -96,8 +96,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A versão Web deverá ser responsivo | MÉDIA | 
+|RNF-002| Tanto a versão Web quanto a versão Mobile devem apresentar bom nível de contraste visando a usabilidade |  ALTA | 
+|RNF-003| Os sistemas devem funcionar 24 horas e em todos os dias da semana | ALTA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  MEDIA | 
+|RNF-005| Visando a usabilidade, os sistemas Web e Mobile devem ser intuitivos. O usuário deverá reconhecer cada funcionalidade | ALTA | 
+|RNF-006| O sistema deve se manter operando mesmo que haja 100.000 usuários em atividade |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
