@@ -1,46 +1,27 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Hoje em dia, muitos empreendedores que administram pequenos negócios enfrentam um dilema comum: eles dependem de aplicativos de entrega para impulsionar suas vendas. A princípio, essa abordagem parece simples e conveniente, mas ela traz consigo desafios que afetam profundamente suas operações e objetivos comerciais.
+
+Esses pequenos empresários se deparam com altas taxas de comissão cobradas pelos aplicativos de entrega, o que impacta diretamente seus lucros e saúde financeira. Além disso, eles frequentemente se veem refém das políticas e diretrizes dessas plataformas, sem controle efetivo sobre a forma como sua marca é apresentada aos clientes. Essa perda de controle não apenas limita a capacidade de criar uma experiência de cliente coerente e autêntica, mas também impede que eles desenvolvam uma conexão significativa com seus consumidores.
+
+Em um mercado saturado e competitivo, é essencial que esses empreendedores encontrem maneiras de se destacar. É nesse ponto que a importância de ter um site e um aplicativo próprios se torna evidente. Ao investir em uma plataforma personalizada, esses empresários podem retomar o controle sobre suas operações e preços. Isso não só reduz as taxas excessivas, mas também oferece uma oportunidade de construir uma marca mais forte e autêntica.
+
+Ao adotar uma abordagem própria, eles podem criar uma experiência de cliente única, garantindo uma jornada de compra mais suave e personalizada. Além disso, uma plataforma própria permite que eles se envolvam diretamente com os clientes, coletando feedback, oferecendo promoções personalizadas e criando relacionamento direto. Dessa forma, esses empreendedores podem expandir sua marca de maneira mais eficaz, se destacando no mercado competitivo e atendendo às expectativas dos consumidores modernos.
+
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Dependecia dos pequenos empresários em relação a aplicativos de entrega de terceiros para impulsionar suas vendas. 
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+O objetivo principal deste projeto é criar um site e um aplicativo próprios para esses pequenos empresários, com o intuito de oferecer uma solução alternativa à dependência de aplicativos de terceiros. Isso será alcançado ao proporcionar uma plataforma que permita a esses empreendedores maior controle sobre suas operações, comunicação direta com os clientes e uma experiência de compra personalizada. Além disso, o projeto busca fortalecer a identidade da marca e reduzir os custos associados às altas taxas de comissão.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+A dependência de aplicativos de entrega externos pode ser prejudicial aos pequenos empresários devido às limitações impostas por essas plataformas. Ao criar uma plataforma própria, esses empreendedores terão maior autonomia sobre suas operações, incluindo preços, políticas e comunicação. Além disso, a capacidade de oferecer uma experiência personalizada e consistente aos clientes pode aumentar a fidelidade e a confiança do público. Reduzir as taxas de comissão também contribui para a saúde financeira desses negócios.
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O público-alvo desse projeto são empreendedores que administram pequenos negócios, como cafés, restaurantes, lojas de produtos artesanais, entre outros, que atualmente dependem de aplicativos de entrega para gerar vendas. Esses empresários estão procurando maneiras de se destacar em um mercado competitivo, aumentar sua autonomia e oferecer uma experiência de cliente diferenciada. O projeto é direcionado para aqueles que buscam uma alternativa para os aplicativos de terceiros, visando aumentar a eficácia de suas operações e construir relacionamentos mais diretos com os clientes.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
