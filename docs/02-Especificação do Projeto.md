@@ -91,10 +91,13 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
 
-Usar o seguinte modelo: 
-
-![Indicadores de Desempenho](img/02-indic-desemp.png)
-Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
+| INDICADOR | OBJETIVOS | DESCRIÇÃO | CÁLCULO | FONTE DE DADOS | PERSPECTIVA |
+|-----------|-----------|-----------|---------|----------------|-------------|
+|Número de acessos ao site | Avaliar número de acessos a versão web da solução |  Verificar número de acessos únicos ao site | Número de acessos  | Google Analytics | Difusão do Produto | 
+|Número de downloads do aplicativo | Avaliar quantidade de pessoas que baixaram e utilizam a versão mobile da solução | Verificar quantidade de downloads do aplicativo | Número de downloads | Play Store, Apple Store | Difusão do Produto | 
+|Quantidade de vendas realizadas na plataforma | Avaliar sucesso na realização de vendas na plataforma | Verificar quantidade de vendas | Quantidade de vendas | Banco de dados da plataforma | Qualidade do Produto | 
+|Percentual de reclamações Web | Avaliar índice de reclamações e respondê-las para identificar possível erros e promovor melhorias no sistema | Verificar reclamções recebidas | Razão entre o número de reclamções e quantidade de acessos únicos ao site | Formulário de Contato | Qualidade do Produto | 
+|Percentual de reclamações aplicativo | Avaliar índice de reclamações e respondê-las para identificar possível erros e promovor melhorias no sistema | Verificar reclamções recebidas | Razão entre o número de reclamções e quantidade de downloads do aplicativo | Play Store, Apple Store, Formulário de Contato | Qualidade do Produto |. 
 
 ## 🎯 Requisitos
 
