@@ -10,10 +10,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Hiago Filippe de Assis Soares Leão
+* Juliana Machado Madureira
+* Leonardo Gonçalves Teles
+* Rayane Silva dos Santos
+* Walber Gomes Soares
+
 
 ## Orientador
 
