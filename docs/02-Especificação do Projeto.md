@@ -9,17 +9,31 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |Claudio Guimaraes    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/main/docs/img/fernandoAquino.jpg?raw=true)| **Idade:** 32 <br> **Ocupação:** Empresario | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Instagram <br> ⦁ WhatsApp 
+|![image](img/pedroGuimarares.jpg) | **Idade:** 32 <br> **Ocupação:** Empresario | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Instagram <br> ⦁ WhatsApp 
 | **Motivações:** <br> ⦁  <br> ⦁ Aumentar o alcance de sua pizzaria. <br> ⦁ Ter um valor mais justo em seus produtos. <br> ⦁ Mostrar um pouco da cultura de sua Pizzaria ao seu público.
 |**Frustrações:**<br> ⦁ Cansado das taxas cobradas em aplicativos. <br> ⦁ Dificuldade em ter visibilidade em sua pizzaria.
-|**Hobbies, Leitura:**<br> ⦁ Estudar. <br> ⦁ Lazer com a família. <br> ⦁ Viajar.  <br> ⦁ Estudar sobre investimentos. |
+|**Hobbies** <br> ⦁ Estudar. <br> ⦁ Lazer com a família. <br> ⦁ Viajar. <br> ⦁ Estudar sobre investimentos. |
 
 |Fernando Arquino    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/main/docs/img/fernandoAquino.jpg?raw=true)| **Idade:** 46 <br> **Ocupação:** Pizzaiolo | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp 
+|![image](img/fernandoAquino.jpg)| **Idade:** 46 <br> **Ocupação:** Pizzaiolo | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp 
 | **Motivações:** <br> ⦁ Divulgar seu trabalho. ⦁ Mostrar um pouco de sua culinária.
 |**Frustrações:**<br> ⦁ Não consegue descrever seu trabalho com os aplicativos tradicionais.
-|  **Hobbies** <br> Cozinhar. <br> ⦁ Brincar com seus filhos <br> ⦁ Ler. |
+|  **Hobbies** <br> Cozinhar. <br> ⦁ Brincar com seus filhos <br> ⦁ Leitura. |
+
+|Lucas Arthur   | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](img/lucasArthur.jpg)| **Idade:** 21 <br> **Ocupação:** Estudante | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp <br> ⦁ Youtube
+| **Motivações:** <br> ⦁ Conhecer uma boa pizzaria. ⦁ Busca qualidade com preço justo.
+|**Frustrações:**<br> ⦁ Cansado da limitação dos outros aplicativos. <br> ⦁ Não consegue escolher a pizza baseado em somente fotos e ingredientes.
+|  **Hobbies** <br> Jogar video-games. <br> ⦁ Passear com cachorro <br> ⦁ Assistir séries e desenhos. |
+
+|Grabriel Alcantra   | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|![image](img/gabrielAlcantra.jpg)| **Idade:** 32 <br> **Ocupação:** Escritor | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ Twitter <br> ⦁ Youtube <br> ⦁ WhatsApp 
+| **Motivações:** <br> ⦁ Busca detalhes sobre a pizza que irá comprar. ⦁ Procura uma experiencia diferente da convêncional para comprar pizzas.
+|**Frustrações:**<br> ⦁ Gostaria de maior praticidade para encontrar restaurantes.
+|  **Hobbies** <br> Degustar Vinhos. <br> ⦁ Degustar Massas <br> ⦁ Ler. |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -35,21 +49,21 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 ## Histórias de Usuários
 
+## 📚 Histórias de Usuários
+
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                       |
+|--------------------|------------------------------------|----------------------------------------------|
+|Claudio Guimaraes   | Aumentar o alcance de sua pizzaria                              | Aumentar seus lucros.                         |
+|Claudio Guimaraes   | Mostrar um pouco da cultura de sua Pizzaria ao seu público.     | Ter uma maior conexão com seus clientes. |
+|Claudio Guimaraes   | Ter um valor mais justo em seus produtos.                       | Gerar maior satisfação para seus clientes. |
+|Fernando Arquino    | Mostrar um pouco de sua culinária.                              | Divulgar seu trabalho.  |
+|Lucas Arthur        | Qualidade com preço justo.                                      | Poupar por conta de sua faculdade.  |
+|Lucas Arthur        | Uma boa descrição sobre o estabelecimento.                      | Sentir maior segurança na compra.  |
+|Grabriel Alcantra   | Uma experiencia diferente da convêncional para comprar pizzas.  | Para encontrar a pizzaria ideal. |
+|Grabriel Alcantra   | Busca detalhes sobre a pizza que irá comprar.                   | Entender mais sobre o que será consumido antes da compra. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Modelagem do Processo de Negócio 
 
