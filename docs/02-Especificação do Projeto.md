@@ -30,7 +30,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |Grabriel Alcantra   | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](img/gabrielAlcantra.jpg)| **Idade:** 32 <br> **Ocupação:** Escritor | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ Twitter <br> ⦁ Youtube <br> ⦁ WhatsApp 
+|![image](img/grabrielAlcantra.jpg)| **Idade:** 32 <br> **Ocupação:** Escritor | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ Twitter <br> ⦁ Youtube <br> ⦁ WhatsApp 
 | **Motivações:** <br> ⦁ Busca detalhes sobre a pizza que irá comprar. ⦁ Procura uma experiencia diferente da convêncional para comprar pizzas.
 |**Frustrações:**<br> ⦁ Gostaria de maior praticidade para encontrar restaurantes.
 |  **Hobbies** <br> Degustar Vinhos. <br> ⦁ Degustar Massas <br> ⦁ Ler. |
