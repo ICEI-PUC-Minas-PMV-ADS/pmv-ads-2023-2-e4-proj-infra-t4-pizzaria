@@ -10,30 +10,30 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 |Claudio Guimaraes    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](img/pedroGuimarares.jpg) | **Idade:** 32 <br> **Ocupação:** Empresario | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Instagram <br> ⦁ WhatsApp 
-| **Motivações:** <br> ⦁  <br> ⦁ Aumentar o alcance de sua pizzaria. <br> ⦁ Ter um valor mais justo em seus produtos. <br> ⦁ Mostrar um pouco da cultura de sua Pizzaria ao seu público.
+| **Motivações:** <br>  ⦁ Aumentar o alcance de sua pizzaria. <br> ⦁ Ter um valor mais justo em seus produtos. <br> ⦁ Mostrar um pouco da cultura de sua Pizzaria ao seu público.
 |**Frustrações:**<br> ⦁ Cansado das taxas cobradas em aplicativos. <br> ⦁ Dificuldade em ter visibilidade em sua pizzaria.
-|**Hobbies** <br> ⦁ Estudar. <br> ⦁ Lazer com a família. <br> ⦁ Viajar. <br> ⦁ Estudar sobre investimentos. |
+|**Hobbies** <br> ⦁ Estudar <br> ⦁ Lazer com a família <br> ⦁ Viajar <br> ⦁ Estudar sobre investimentos |
 
 |Fernando Arquino    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](img/fernandoAquino.jpg)| **Idade:** 46 <br> **Ocupação:** Pizzaiolo | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp 
-| **Motivações:** <br> ⦁ Divulgar seu trabalho. ⦁ Mostrar um pouco de sua culinária.
-|**Frustrações:**<br> ⦁ Não consegue descrever seu trabalho com os aplicativos tradicionais.
-|  **Hobbies** <br> Cozinhar. <br> ⦁ Brincar com seus filhos <br> ⦁ Leitura. |
+| **Motivações:** <br> ⦁ Divulgar seu trabalho. <br> ⦁ Mostrar um pouco de sua culinária.
+| **Frustrações:** <br> ⦁ Não consegue descrever seu trabalho com os aplicativos tradicionais.
+|  **Hobbies** <br> ⦁ Cozinhar <br> ⦁ Brincar com seus filhos <br> ⦁ Leitura |
 
 |Lucas Arthur   | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![image](img/lucasArthur.jpg)| **Idade:** 21 <br> **Ocupação:** Estudante | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp <br> ⦁ Youtube
 | **Motivações:** <br> ⦁ Conhecer uma boa pizzaria. ⦁ Busca qualidade com preço justo.
-|**Frustrações:**<br> ⦁ Cansado da limitação dos outros aplicativos. <br> ⦁ Não consegue escolher a pizza baseado em somente fotos e ingredientes.
-|  **Hobbies** <br> Jogar video-games. <br> ⦁ Passear com cachorro <br> ⦁ Assistir séries e desenhos. |
+| **Frustrações:**<br> ⦁ Cansado da limitação dos outros aplicativos. <br> ⦁ Não consegue escolher a pizza baseado em somente fotos e ingredientes.
+|  **Hobbies** <br> ⦁ Jogar video-games <br> ⦁ Passear com cachorro <br> ⦁ Assistir séries e desenhos |
 
 |Grabriel Alcantra   | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](img/grabrielAlcantra.jpg)| **Idade:** 32 <br> **Ocupação:** Escritor | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ Twitter <br> ⦁ Youtube <br> ⦁ WhatsApp 
+|![image](img/grabrielAlcantra.jpg)| **Idade:** 32 <br> **Ocupação:** Escritor | **Aplicativos:** <br> ⦁ Instagram <br> ⦁ WhatsApp  <br> ⦁ Twitter <br> ⦁ Youtube 
 | **Motivações:** <br> ⦁ Busca detalhes sobre a pizza que irá comprar. ⦁ Procura uma experiencia diferente da convêncional para comprar pizzas.
-|**Frustrações:**<br> ⦁ Gostaria de maior praticidade para encontrar restaurantes.
-|  **Hobbies** <br> Degustar Vinhos. <br> ⦁ Degustar Massas <br> ⦁ Ler. |
+| **Frustrações:** <br> ⦁ Gostaria de maior praticidade para encontrar restaurantes.
+|  **Hobbies** <br> ⦁ Degustar Vinhos <br> ⦁ Degustar Massas <br> ⦁ Ler |
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
