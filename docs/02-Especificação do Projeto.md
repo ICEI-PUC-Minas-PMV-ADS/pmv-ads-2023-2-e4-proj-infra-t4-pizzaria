@@ -9,14 +9,14 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 |Claudio Guimaraes    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](docs/img/fernandoAquino.jpg](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9121b9a4392a09a5bbfac85dd509dd53836213e7/docs/img/fernandoAquino.jpg)| **Idade:** 32 <br> **Ocupação:** Empresario | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Instagram <br> ⦁ WhatsApp 
+|![image](docs/img/pedroGuimarares.jpg)| **Idade:** 32 <br> **Ocupação:** Empresario | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Netflix <br> ⦁ Instagram <br> ⦁ WhatsApp 
 | **Motivações:** <br> ⦁  <br> ⦁ Aumentar o alcance de sua pizzaria. <br> ⦁ Ter um valor mais justo em seus produtos. <br> ⦁ Mostrar um pouco da cultura de sua Pizzaria ao seu público.
 |**Frustrações:**<br> ⦁ Cansado das taxas cobradas em aplicativos. <br> ⦁ Dificuldade em ter visibilidade em sua pizzaria.
 |**Hobbies, Leitura:**<br> ⦁ Estudar. <br> ⦁ Lazer com a família. <br> ⦁ Viajar.  <br> ⦁ Estudar sobre investimentos. |
 
 |Fernando Arquino    | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|![image](https://user-images.githubusercontent.com/103972585/223270233-a9813350-f227-4b4e-bd93-ebb044f604b8.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9121b9a4392a09a5bbfac85dd509dd53836213e7/docs/img/pedroGuimarares.jpg)| **Idade:** 46 <br> **Ocupação:** Pizzaiolo | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp 
+|![image](docs/img/pedroGuimarares.jpg)| **Idade:** 46 <br> **Ocupação:** Pizzaiolo | **Aplicativos:** <br> ⦁ Facebook <br> ⦁ Instagram <br> ⦁ TikTok <br> ⦁ WhatsApp 
 | **Motivações:** <br> ⦁ Divulgar seu trabalho. ⦁ Mostrar um pouco de sua culinária.
 |**Frustrações:**<br> ⦁ Não consegue descrever seu trabalho com os aplicativos tradicionais.
 |  **Hobbies** <br> Cozinhar. <br> ⦁ Brincar com seus filhos <br> ⦁ Ler. |
