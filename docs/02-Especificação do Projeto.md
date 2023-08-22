@@ -77,9 +77,15 @@ Apresente aqui uma descrição da sua proposta abordando seus limites e suas lig
 
 ### Processo 1 - Processo completo
  
+![_Fluxograma (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/f108a05a-80dc-44cd-81f4-a02c6841192d)
 
-![_Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/a3991acf-6a88-4e2b-a030-2dec48843a4d)
+### Processo 2 - Pedido do cliente
 
+![_Fluxograma (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/11d97661-1670-45f6-b930-4f350c3967af)
+
+### Processo 3 - Alteração do cardápio/visualização dos pedidos
+
+![_Fluxograma (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/91cd417b-695f-47b0-97ad-a6a59a227969)
 
 ## Indicadores de Desempenho
 
