@@ -189,10 +189,25 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 ![Gráfico de Gantt](img/02-grafico-gantt.png)
 
 ## Gerenciamento de Equipe
-
-O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
+<!--O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
 ![Simple Project Timeline](img/02-project-timeline.png)
+ -->
+### Trello
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/96bbae10-6ae1-475d-b896-d8810bfdaf26)
+
+Etiquetas: Apresenta o tipo daquele produto no desenvolvimento Elas são dividias (até o momento 03/03/23) em:
+* Documentação
+* Desenvolvimento
+* Desenvolvimento RNF
+* Arquitetura
+* Teste
+
+Cor: As cores é para a equipe de desenvolvimento saber qual é o nível do atributo Prioridade
+Elas são dividas em:
+* Vermelho: Prioridade Alta
+* Amarelo: Prioridade Média
+* Azul: Prioridade Baixa
 
 ## Gestão de Orçamento
 
