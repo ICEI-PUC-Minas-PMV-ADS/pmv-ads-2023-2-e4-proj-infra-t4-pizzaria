@@ -15,8 +15,11 @@ Em uma sociedade globalizada e interconectada, a presença digital para um negoc
 Nesse contexto, o presente projeto visa criar uma solução digital abrangente para uma pizzaria, a fim de impulsionar sua marca e atrair novos clientes. O projeto contará com uma versão WEB e Mobile, permitindo a pizzaria maior presença digital
 
 ## Problema
-
+<!--
 Dependecia dos pequenos empresários em relação a aplicativos de entrega de terceiros para impulsionar suas vendas. 
+-->
+
+Com um mercado em constante evolução, a competição entre empresas tem se tornado cada vez mais acirrada. Muitos estabelecimentos como pizzarias ainda não exploram todo o potencial oferecido pelo mundo digital, se limitando a apenas um perfil no Instagram. Com isso, a ausência de uma presença digital pode limitar o alcance da pizzaria a um novo publico (editando)
 
 ## Objetivos
 
