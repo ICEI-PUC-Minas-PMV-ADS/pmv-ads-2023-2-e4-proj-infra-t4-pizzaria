@@ -35,6 +35,7 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 | **Frustrações:** <br> ⦁ Gostaria de maior praticidade para encontrar restaurantes.
 |  **Hobbies** <br> ⦁ Degustar Vinhos <br> ⦁ Degustar Massas <br> ⦁ Ler |
 
+<!-- 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
@@ -46,6 +47,7 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 > - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+-->
 
 ## Histórias de Usuários
 
@@ -116,7 +118,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| A versão Web deverá ser responsivo | MÉDIA | 
 |RNF-002| Tanto a versão Web quanto a versão Mobile devem apresentar bom nível de contraste visando a usabilidade |  ALTA | 
-|RNF-003| Os sistemas devem funcionar 24 horas e em todos os dias da semana | ALTA | 
+|RNF-003| Os sistemas devem funcionar todos os dias da semana | ALTA | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s |  MEDIA | 
 |RNF-005| Visando a usabilidade, os sistemas Web e Mobile devem ser intuitivos. O usuário deverá reconhecer cada funcionalidade | ALTA | 
 |RNF-006| O sistema deve se manter operando mesmo que haja 100.000 usuários em atividade |  ALTA | 
