@@ -107,17 +107,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Ao selecionar um produto, o produto deve ir para o "carrinho" | ALTA | 
-|RF-002| O usuário poderá escolher mais de um produto  | ALTA |
-|RF-003| Na página de checkout, deverá aparecer a soma de todos os produtos selecionados pelo cliente   | ALTA |
-|RF-004| Na página de checkout, deverá aparecer quais produtos o usuário selecionou, mostrando inclusive o preço de cada produto   | ALTA |
-|RF-005| Na página de checkout, deverá aparecer os produtos selecionados mais um formulário de preenchimento de dados onde o cliente informará nome e local de entrega da sua pizza | ALTA |
-|RF-006| A página de checkout deve confirmar se todos os campos obrigatórios foram preenchidos corretamente   | ALTA |
-|RF-007| O usuário poderá excluir um produto caso tenha colocado incorretamente    | MÉDIA |
-|RF-008| Ao confirmar o pedido, deverá aparecer um pop-up mostrando o cliente que seu pedido foi concluído com sucesso  | MÉDIA |
-|RF-009| Na página de checkout, deverá ter um botão que ao ser clicado, levará ao usuário de volta para a Home (o mesmo vale para o mobile) | ALTA |
-|RF-010| Na Home, deverá ter um botão que ao ser clicado, o cliente será direcionado para o checkout  (o mesmo vale para o mobile) | ALTA |
-|RF-011| Na versão mobile, deverá conter um botão que ao ser clicado, o usuário é levado ao discador de seu telefone com o número da pizzaria | ALTA |
+
 
 
 ### Requisitos não Funcionais
