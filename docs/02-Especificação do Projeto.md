@@ -109,11 +109,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O Sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
+|RF-001| O sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
 |RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar e remover itens | ALTA | 
-|RF-003| Exibir o resumo do pedido, incluindo o total a se pagar | ALTA | 
-|RF-004| O sistema deverá conter um campo formulário para que o cliente coloque suas informações, mais o local de entrega da pizza | ALTA | 
-|RF-005| Assim que os campos do formulário for preenchido, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | ALTA | 
+|RF-003| O sistema deverá exibir o resumo do pedido, incluindo o total a se pagar | ALTA | 
+|RF-004| O sistema deverá conter um campo formulário para coleta de informações como: nome, email, e endereço de entrega | ALTA | 
+|RF-005| Assim que os campos do formulário forem preenchidos, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | MÉDIO | 
+|RF-006| O sistema deverá informar ao usuário um breve resumo dos ingredientes de cada pizza | ALTA |
+|RF-007| Um botão deve ser disponibilizado na página de Pedidos, permitindo o usuário retornar à página inicial | ALTA |
+|RF-008| Um campo deverá ser dedicado a informação de onde a pizzaria está localizada para caso o usuário queira ir a loja física  |  BAIXA | 
+<!--
+|RF-009| O sistema deverá conter um campo de observação possibilitando o usuário informar alguma alteração em sua pizza. (Exemplo: "Pizza de Peperronina sem azeitonas")  |  BAIXA | 
+-->
+
 
 ### Requisitos não Funcionais
 
@@ -124,7 +131,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Os sistemas devem funcionar todos os dias da semana | ALTA | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s |  MEDIA | 
 |RNF-005| Visando a usabilidade, os sistemas Web e Mobile devem ser intuitivos. O usuário deverá reconhecer cada funcionalidade | ALTA | 
-|RNF-006| O sistema deve se manter operando mesmo que haja 100.000 usuários em atividade |  ALTA | 
+|RNF-006| O sistema deve se manter operando mesmo que haja 100.000 usuários em atividade |  ALTA |
+
 
 
 ## Restrições
