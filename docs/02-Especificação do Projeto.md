@@ -109,7 +109,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-
+|RF-001| Exibir uma lista completa de todas as pizzas disponíveis para compra. | ALTA | 
 
 
 ### Requisitos não Funcionais
