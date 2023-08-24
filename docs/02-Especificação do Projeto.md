@@ -109,8 +109,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Exibir uma lista completa de todas as pizzas disponíveis para compra. | ALTA | 
-
+|RF-001| O Sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
+|RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar e remover itens | ALTA | 
+|RF-003| Exibir o resumo do pedido, incluindo o total a se pagar | ALTA | 
+|RF-004| O sistema deverá conter um campo formulário para que o cliente coloque suas informações, mais o local de entrega da pizza | ALTA | 
+|RF-005| Assim que os campos do formulário for preenchido, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | ALTA | 
 
 ### Requisitos não Funcionais
 
