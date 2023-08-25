@@ -8,7 +8,7 @@ Segundo pesquisa, empresas que investem no comercio digital, conseguem lucro 26%
 
 ## Objetivos
 O objetivo desse projeto visa a criação de uma plataforma web e um aplicativo movel personalizados para uma pizzaria em específica, proporcionando à empresa uma entrada no ambiente digital. Dessa forma, tal pizzaria poderá alcançar: 
-- Preceça Digital
+- Presença Digital
 - Aumento de pedidos
 - Reconhecimento de marca
 
