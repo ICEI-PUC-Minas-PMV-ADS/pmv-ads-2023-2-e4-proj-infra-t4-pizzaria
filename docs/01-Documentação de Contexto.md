@@ -19,7 +19,7 @@ Nesse contexto, o presente projeto visa criar uma solução digital abrangente p
 Dependecia dos pequenos empresários em relação a aplicativos de entrega de terceiros para impulsionar suas vendas. 
 -->
 
-Segundo pesquisa, empresas que investem no comercio digital, conseguem lucro 26% maior que concorrentes que não aplicam tais estratégias [[1]](https://notaalta.espm.br/fala-professor/impacto-da-presenca-digital-no-resultado-financeiro-das-empresas/). Com isso, reforçamos que empresas como uma pizzaria que não explorarm todo o potencial oferecido pelo mundo digital, se limitando a apenas um perfil de Instagram, perdem tanto em não alcançar novos clientes, quando consequentemente, no faturamento. Portanto, é necessario abordar a lacuna entre operações tradicionais das pizzarias e as demandas digitais dos consumidores de hoje.
+Segundo pesquisa, empresas que investem no comercio digital, conseguem lucro 26% maior que concorrentes que não aplicam tais estratégias [[2]](https://notaalta.espm.br/fala-professor/impacto-da-presenca-digital-no-resultado-financeiro-das-empresas/). Com isso, reforçamos que empresas como uma pizzaria que não explorarm todo o potencial oferecido pelo mundo digital, se limitando a apenas um perfil de Instagram, perdem tanto em não alcançar novos clientes, quando consequentemente, no faturamento. Portanto, é necessario abordar a lacuna entre operações tradicionais das pizzarias e as demandas digitais dos consumidores de hoje.
 
 ## Objetivos
 
