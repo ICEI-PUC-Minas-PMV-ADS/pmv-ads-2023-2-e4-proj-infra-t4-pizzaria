@@ -13,8 +13,7 @@ O objetivo desse projeto visa a criação de uma plataforma web e um aplicativo 
 - Reconhecimento de marca
 
 ## Justificativa
-
-A dependência de aplicativos de entrega externos pode ser prejudicial aos pequenos empresários devido às limitações impostas por essas plataformas. Ao criar uma plataforma própria, esses empreendedores terão maior autonomia sobre suas operações, incluindo preços, políticas e comunicação. Além disso, a capacidade de oferecer uma experiência personalizada e consistente aos clientes pode aumentar a fidelidade e a confiança do público. Reduzir as taxas de comissão também contribui para a saúde financeira desses negócios.
+De acordo com um estudo postado pelo portal Terra, 65% dos entrevistados na América Latina confirmaram comprar mais online do que antes da Pandemia [[3]](https://www.terra.com.br/economia/dinheiro-em-dia/compras-online-aumentam-no-pos-pandemia-veja-dados-do-estudo,94bd742c917682a594f3e2cbf738dcddarpozkjp.html). Baseado em tal efeito, a criação de uma plataforma web e um aplicativo móvel especificos para a pizzaria não só atenderá a essa crescente, como também, essa solução tornará ainda mais relevante para a sobrevivência e crescimento sustentável do negocío. De tal maneira, a pizzaria não precisará depender de aplicativos externos como Ifood, podendo oferecer uma experiência personalizada e fidelização de seu público.
 
 ## Público-Alvo
 
