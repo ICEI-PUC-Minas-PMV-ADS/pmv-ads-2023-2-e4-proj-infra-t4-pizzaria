@@ -219,4 +219,4 @@ Elas são dividas em:
 * Serviços indiretos considerados foram: água, luz, internet, telefone. Serviços terceirizados diretos não estão previstos. 
 * As contigências garante que alguns imprevistos que geram custos sejam resolvidos através dessa reserva. 
 
-![Orçamento](img/GestaoOrçamental.png)
+![Orçamento](img/gestaoOrçamental.png)
