@@ -17,5 +17,5 @@ De acordo com um estudo postado pelo portal Terra, 65% dos entrevistados na Amé
 
 ## Público-Alvo
 
-O público-alvo desse projeto são empreendedores que administram pequenos negócios, como cafés, restaurantes, lojas de produtos artesanais, entre outros, que atualmente dependem de aplicativos de entrega para gerar vendas. Esses empresários estão procurando maneiras de se destacar em um mercado competitivo, aumentar sua autonomia e oferecer uma experiência de cliente diferenciada. O projeto é direcionado para aqueles que buscam uma alternativa para os aplicativos de terceiros, visando aumentar a eficácia de suas operações e construir relacionamentos mais diretos com os clientes.
+Nossa proposta de desenvolvimento de uma web page e um app, visa atender às necessidades de donos de pizzarias (ou até mesmo para outros estabelecimentos), que buscam entrar de maneira bem-sucedida no cenário digital. Esses empresários estão procurando maneiras de se destacar em um mercado competitivo, aumentar sua autonomia, faturamento e oferecer uma experiência diferenciada para o cliente.
 
