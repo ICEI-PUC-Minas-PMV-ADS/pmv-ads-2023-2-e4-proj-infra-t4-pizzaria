@@ -10,6 +10,8 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 ## 🔃 Diagrama de Fluxo
 O diagrama mostra o fluxo de interação do usuário com o sistema.
 
+![DiagF Pizzaria](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/3ac0cf2c-bd9c-40f6-a7aa-e7b7a9199ffb)
+
 
 
 <!-- 
