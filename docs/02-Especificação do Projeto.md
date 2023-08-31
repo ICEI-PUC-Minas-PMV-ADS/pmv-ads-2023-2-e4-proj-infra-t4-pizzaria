@@ -124,7 +124,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 ### ⚠️ Observação de RFs
 | Nº RFs   | Observação  | 
 |------|-----------------------------------------|
-|010 - 011  | A disponibilidade de messas devem ser gerenciadas pela pizzaria. Uma vez que o cliente envia um pedido de reserva, a pizzara receberá a solição via email. A partir disso, é da competência da pizzaria analisar o horario e a disponibilidade da vaga e responder o cliente via email ou telefone se existe vagas no horario solicitado. Dessa forma, o sistema não terá uma versão/guia/ou similares, onde o proprio sistema consulte a disponibilidade de mesas e horarios.|
+|010 - 011  | A disponibilidade de mesas devem ser gerenciadas pela pizzaria. Uma vez que o cliente envia um pedido de reserva, a pizzara receberá a solicitação via email. A partir disso, é da competência da pizzaria analisar o horario e a disponibilidade da vaga e responder o cliente via email ou telefone se existe vagas no horario solicitado. Dessa forma, o sistema não terá uma versão/guia/ou similares, onde o proprio sistema consulte a disponibilidade de mesas e horarios.|
 
 
 
