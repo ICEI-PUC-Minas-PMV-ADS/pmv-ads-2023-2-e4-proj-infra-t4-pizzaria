@@ -115,11 +115,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| O sistema deverá conter um campo formulário para coleta de informações como: nome, email, e endereço de entrega | ALTA | 
 |RF-005| Assim que os campos do formulário forem preenchidos, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | MÉDIO | 
 |RF-006| O sistema deverá informar ao usuário um breve resumo dos ingredientes de cada pizza | ALTA |
-|RF-007| Um botão deve ser disponibilizado na página de Pedidos, permitindo o usuário retornar à página inicial | ALTA |
-|RF-008| Um campo deverá ser dedicado a informação de onde a pizzaria está localizada para caso o usuário queira ir a loja física  |  BAIXA | 
-<!--
-|RF-009| O sistema deverá conter um campo de observação possibilitando o usuário informar alguma alteração em sua pizza. (Exemplo: "Pizza de Peperronina sem azeitonas")  |  BAIXA | 
--->
+|RF-007| O sistema deverá permitir o usuário acessar o mapa com a localização da pizzaria |  BAIXA |
+|RF-008| O sistema deverá permitir o usuário baixar um e-book com receitas de algumas pizzas disponibilizadas pela pizzaria |  MEDIO |
+|RF-009| O sistema permitirá o usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que ele já possa acessa-las caso queira pedir |  BAIXA | 
+
+
+
 
 
 ### Requisitos não Funcionais
