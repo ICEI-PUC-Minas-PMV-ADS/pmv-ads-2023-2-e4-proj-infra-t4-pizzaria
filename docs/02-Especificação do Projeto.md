@@ -132,7 +132,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Os sistemas devem funcionar todos os dias da semana | ALTA | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s |  MEDIA | 
 |RNF-005| Visando a usabilidade, os sistemas Web e Mobile devem ser intuitivos. O usuário deverá reconhecer cada funcionalidade | ALTA | 
-|RNF-006| O sistema deve se manter operando mesmo que haja 100.000 usuários em atividade |  ALTA |
+|RNF-006| O sistema deve se manter operando mesmo que haja 100 usuários em atividade |  ALTA |
 
 
 
