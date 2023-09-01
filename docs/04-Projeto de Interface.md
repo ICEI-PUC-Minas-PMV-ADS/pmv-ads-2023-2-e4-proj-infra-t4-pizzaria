@@ -31,8 +31,8 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 
 
-## Wireframes
-
+## 📰 Wireframes
+<!-- 
 ![Exemplo de Wireframe](img/wireframe-example.png)
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
@@ -45,3 +45,20 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [Axure](https://www.axure.com/edu) (Licença Educacional)
 > - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+-->
+
+
+
+<div>
+ <h3>💻 Versão Web</h3>
+ <h4>Home</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/fbf62c8e-2836-47dc-b44e-46001ae085c1"/> 
+
+
+ <h4>Pedidos</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/26b9d66d-6775-473a-b4e4-e059b97331a7"/>
+
+ <h4>Pedido Aprovado</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/8a5e31cc-0e97-4e69-aefd-cd654089916f"/>
+</div>
+
