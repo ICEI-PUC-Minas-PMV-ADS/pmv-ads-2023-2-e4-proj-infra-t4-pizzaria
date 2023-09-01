@@ -12,6 +12,9 @@ O objetivo desse projeto visa a criação de uma plataforma web e um aplicativo 
 - Aumento de pedidos
 - Reconhecimento de marca
 
+Contudo, nosso projeto não será responsável pela logista de entregas das pizzas. Entregaremos as interfaces e as principais funcionalidades que permitem o cliente fazer pedidos, reservas e os demais Requisitos Funcionais descritos na Especificação do Projeto.
+🗣️ Consulte os aqui: <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>
+
 ## Justificativa
 De acordo com um estudo postado pelo portal Terra, 65% dos entrevistados na América Latina confirmaram comprar mais online do que antes da Pandemia [[3]](https://www.terra.com.br/economia/dinheiro-em-dia/compras-online-aumentam-no-pos-pandemia-veja-dados-do-estudo,94bd742c917682a594f3e2cbf738dcddarpozkjp.html). Baseado em tal efeito, a criação de uma plataforma web e um aplicativo móvel especificos para a pizzaria não só atenderá a essa crescente, como também, essa solução tornará ainda mais relevante para a sobrevivência e crescimento sustentável do negocío. De tal maneira, a pizzaria não precisará depender de aplicativos externos como Ifood, podendo oferecer uma experiência personalizada e fidelização de seu público.
 
