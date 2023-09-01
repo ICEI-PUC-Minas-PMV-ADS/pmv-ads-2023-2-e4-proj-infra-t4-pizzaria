@@ -117,11 +117,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| O sistema deverá informar ao usuário um breve resumo dos ingredientes de cada pizza | ALTA |
 |RF-007| O sistema deverá permitir o usuário acessar o mapa com a localização da pizzaria |  BAIXA |
 |RF-008| O sistema deverá permitir o usuário baixar um e-book com receitas de algumas pizzas disponibilizadas pela pizzaria |  MEDIO |
+|RF-009| O sistema deve permitir o usuário fazer reservas caso ele queira ir presencialmente na pizzaria. |  MEDIO |
+|RF-010| As informações de reserva devem ser enviadas para o email da pizzaria informando nome, qtd de pessoas, horario, telefone e email |  MEDIO |
 <!-- 
 |RF-009| O sistema permitirá o usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que ele já possa acessa-las caso queira pedir |  BAIXA |
 -->
-|RF-009| O sistema deve permitir o usuário fazer reservas caso ele queira ir presencialmente na pizzaria. |  MEDIO |
-|RF-010| As informações de reserva devem ser enviadas para o email da pizzaria informando nome, qtd de pessoas, horario, telefone e email |  MEDIO |
+
 
 ### ⚠️ Observação de RFs
 | Nº RFs   | Observação  | 
