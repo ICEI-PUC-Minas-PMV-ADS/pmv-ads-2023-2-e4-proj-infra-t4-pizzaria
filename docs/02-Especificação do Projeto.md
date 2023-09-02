@@ -112,7 +112,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| O sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
 |RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar e remover itens | ALTA | 
 |RF-003| O sistema deverá exibir o resumo do pedido, incluindo o total a se pagar | ALTA | 
-|RF-004| O sistema deverá conter um campo formulário para coleta de informações como: nome, email, e endereço de entrega | ALTA | 
+|RF-004| O sistema deverá conter um campo formulário para coleta de informações como: nome, telefone, email, e endereço de entrega | ALTA | 
 |RF-005| Assim que os campos do formulário forem preenchidos, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | MÉDIO | 
 |RF-006| O sistema deverá informar ao usuário um breve resumo dos ingredientes de cada pizza | ALTA |
 |RF-007| O sistema deverá permitir o usuário acessar o mapa com a localização da pizzaria |  BAIXA |
