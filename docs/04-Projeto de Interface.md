@@ -48,17 +48,16 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 -->
 
 
-
 <div>
  <h3>💻 Versão Web</h3>
  <h4>Home</h4>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/fbf62c8e-2836-47dc-b44e-46001ae085c1"/> 
-
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/72ca02ed-31f8-46fc-8967-5533b39f15d0"/> 
 
  <h4>Pedidos</h4>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/26b9d66d-6775-473a-b4e4-e059b97331a7"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/0cbaebbc-d35b-4e03-ba14-6638558c1fac"/>
 
  <h4>Pedido Aprovado</h4>
- <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/8a5e31cc-0e97-4e69-aefd-cd654089916f"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9248f973-2860-4c20-87d7-39bd59891447"/>
 </div>
+
 
