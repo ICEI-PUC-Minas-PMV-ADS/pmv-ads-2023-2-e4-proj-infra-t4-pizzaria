@@ -60,4 +60,19 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9248f973-2860-4c20-87d7-39bd59891447"/>
 </div>
 
+<div>
+ <h3>📱 Versão Mobile</h3>
+ <h4>Home</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/f73e66d9-4c57-4bdf-b388-510d9b543158"/> 
+
+ <h4>Pedidos</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/f8f724a1-0e51-4025-bcf0-de077b7d31b7"/>
+
+ <h4>Pedido Aprovado</h4>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/0e2f60f9-1e72-4030-be79-d6c7f7be236b"/>
+</div>
+
+
+
+
 
