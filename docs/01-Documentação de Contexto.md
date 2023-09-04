@@ -12,7 +12,7 @@ O objetivo desse projeto visa a criação de uma plataforma web e um aplicativo 
 - Aumento de pedidos
 - Reconhecimento de marca
 
-Contudo, nosso projeto não será responsável pela logista de entregas das pizzas. Entregaremos as interfaces e as principais funcionalidades que permitem o cliente fazer pedidos, reservas e os demais Requisitos Funcionais descritos na Especificação do Projeto.
+Contudo, nosso projeto não contará com todos os elementos/funcionalidades essenciais que uma presença digital necessitária, isso devido ao tempo de entrega que será curto e devido as nossas familiariedades com esse tipo de projeto. Entretanto, nos esforçaremos ao máximo para garantir a entrega de todos os nossso RFs descritos na Especificação do Projeto.
 🗣️ Consulte os aqui: <a href="02-Especificação do Projeto.md"> Especificação do Projeto</a>
 
 ## Justificativa
