@@ -48,11 +48,12 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
 
+- Scrum Master: (a definir)**
+- Product Owner: Tiago Gonçalves**
+- Equipe de Desenvolvimento: Hiago, Juliana, Leonardo, Rayane e Walber.
+- Equipe de Design: Hiago, Juliana, Leonardo, Rayane e Walber.
+  
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
@@ -73,12 +74,12 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
+- VS Code
+- WhatsApp e Teams para comunição.
+- Figma
+- Trello
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+As ferramentas foram selecionadas de formar a aprimorar a capacidade, a enficiência e a colaboração da equipe do projeto. Como ambiente de desenvolvimento foi escolhido o VS Code por ser uma plataforma robusta para codificação e depuração, além de possuir uma integração com o sistema de versão e ser um ambiente familiar para o time. De forma semelhante, WhatsApp e Teams foram selecionadoscomo ferramentas de comunicação por serem de fácil integração e conhecidos. Por fim, utilizamos o Figma para design por simplificar o processo de design interativo e o Trello para a organização e distribuição de tarefas. 
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
