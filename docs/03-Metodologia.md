@@ -48,12 +48,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 Apresente a divisão de papéis entre os membros do grupo.
 
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
+- Scrum Master: (a definir)
+- Product Owner: Walber;
+- Equipe de Desenvolvimento: Walber, Rayane, Juliana, Leonardo, Hiago.
+- Equipe de Design: Walber, Rayane, Juliana, Leonardo, Hiago.
 
-- Scrum Master: (a definir)**
-- Product Owner: Tiago Gonçalves**
-- Equipe de Desenvolvimento: Hiago, Juliana, Leonardo, Rayane e Walber.
-- Equipe de Design: Hiago, Juliana, Leonardo, Rayane e Walber.
-  
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
 > - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
@@ -61,7 +60,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+A equipe optou por utilizar o Framework Scrum como metodologia de gerenciamento de projeto devido à sua abordagem iterativa e colaborativa, que se alinha com o desenvolvimento agíl de software. O projeto foi dividido em sprints. No início de cada sprint, serão realizadas reuniões de planejamento, na qual as atividades serão priorizadas e distribuídas entre os membros. O Trello foi utilizado para criar um quadro Kanban virtual, representando as colunas de "To Do", "In Progress" e "Done". E além disso, o time se reune semanalmente  para discutir o progresso das tarefas, identificando possíveis impedimentos e ajustes necessários para o plano de sprints.
  
 > **Links Úteis**:
 > - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
@@ -71,15 +70,16 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
+### 🛠️Ferramentas
 
 As ferramentas empregadas no projeto são:
-- VS Code
-- WhatsApp e Teams para comunição.
-- Figma
-- Trello
 
-As ferramentas foram selecionadas de formar a aprimorar a capacidade, a enficiência e a colaboração da equipe do projeto. Como ambiente de desenvolvimento foi escolhido o VS Code por ser uma plataforma robusta para codificação e depuração, além de possuir uma integração com o sistema de versão e ser um ambiente familiar para o time. De forma semelhante, WhatsApp e Teams foram selecionadoscomo ferramentas de comunicação por serem de fácil integração e conhecidos. Por fim, utilizamos o Figma para design por simplificar o processo de design interativo e o Trello para a organização e distribuição de tarefas. 
+- Editor de código:`VS Code`
+- Ferramentas de comunicação: `WhatsApp`, `Teams`
+- Ferramentas de desenho de tela: `Figma`
+- Organizador de tarefas: `Trello`
+
+O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
