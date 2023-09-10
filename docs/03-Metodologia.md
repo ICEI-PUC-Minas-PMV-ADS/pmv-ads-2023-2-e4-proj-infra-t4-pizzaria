@@ -7,10 +7,10 @@ A metodologia contempla as definições ferramental utilizado pela equipe tanto 
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo é apresentada abaixo:
 
-Repositório de código fonte: GitHub
-Documentos do projeto: GitHub
-Projeto de Interface e Wireframes: Figma
-Gerenciamento de Projeto: GitHub
+- Repositório de código fonte: GitHub
+- Documentos do projeto: GitHub
+- Projeto de Interface e Wireframes: Figma
+- Gerenciamento de Projeto: GitHub
 
 ## Controle de Versão
 
