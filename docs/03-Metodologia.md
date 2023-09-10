@@ -1,14 +1,16 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla as definições ferramental utilizado pela equipe tanto para a manutenção dos códigos e demais artefatos quanto para a organização do time na excecução das tarefas dos proejtos.
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo é apresentada abaixo:
+
+Repositório de código fonte: GitHub
+Documentos do projeto: GitHub
+Projeto de Interface e Wireframes: Figma
+Gerenciamento de Projeto: GitHub
 
 ## Controle de Versão
 
@@ -23,7 +25,7 @@ O projeto segue a seguinte convenção para o nome de branches:
 - `testing`: versão em testes do software
 - `dev`: versão de desenvolvimento do software
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
+Quanto à gerência de erros, o projeto adota a seguinte convenção para
 etiquetas:
 
 - `documentation`: melhorias ou acréscimos à documentação
@@ -49,7 +51,7 @@ Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum 
 A equipe optou por utilizar o Framework Scrum como metodologia de gerenciamento de projeto devido à sua abordagem iterativa e colaborativa, que se alinha com o desenvolvimento agíl de software. O projeto foi dividido em sprints. No início de cada sprint, serão realizadas reuniões de planejamento, na qual as atividades serão priorizadas e distribuídas entre os membros. O Trello foi utilizado para criar um quadro Kanban virtual, representando as colunas de "To Do", "In Progress" e "Done". E além disso, o time se reune semanalmente  para discutir o progresso das tarefas, identificando possíveis impedimentos e ajustes necessários para o plano de sprints.
 
 
-### 🛠️Ferramentas
+### Ferramentas
 
 As ferramentas empregadas no projeto são:
 - VS Code
