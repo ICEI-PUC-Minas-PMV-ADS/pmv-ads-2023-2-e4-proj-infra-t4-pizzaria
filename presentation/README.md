@@ -2,4 +2,8 @@
 
 Faça uma apresentação de um resumo de todos o processo de desenvolvimento e no final apresente a solução desenvolvida, usando um pequeno vídeo.
 
+# Video de apresentação etapa 1 
+
+(presentation\Apresentacoes\ApresentacaoEtapa1.mp4)
+
 
