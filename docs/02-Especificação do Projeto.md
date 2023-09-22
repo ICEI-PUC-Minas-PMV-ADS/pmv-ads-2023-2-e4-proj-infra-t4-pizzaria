@@ -110,24 +110,23 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
-|RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar e remover itens | ALTA | 
-|RF-003| O sistema deverá exibir o resumo do pedido, incluindo o total a se pagar | ALTA | 
-|RF-004| O sistema deverá conter um campo formulário para coleta de informações como: nome, telefone, email, e endereço de entrega | ALTA | 
-|RF-005| Assim que os campos do formulário forem preenchidos, o sistema deverá emitir um pop-up informando ao cliente que seu pedido foi concluido com sucesso | MÉDIO | 
-|RF-006| O sistema deverá informar ao usuário um breve resumo dos ingredientes de cada pizza | ALTA |
-|RF-007| O sistema deverá permitir o usuário acessar o mapa com a localização da pizzaria |  BAIXA |
-|RF-008| O sistema deverá permitir o usuário baixar um e-book com receitas de algumas pizzas disponibilizadas pela pizzaria |  MEDIO |
-|RF-009| O sistema deve permitir o usuário fazer reservas caso ele queira ir presencialmente na pizzaria. |  MEDIO |
-|RF-010| As informações de reserva devem ser enviadas para o email da pizzaria informando nome, qtd de pessoas, horario, telefone e email |  MEDIO |
-<!-- 
-|RF-009| O sistema permitirá o usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que ele já possa acessa-las caso queira pedir |  BAIXA |
--->
+|RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  | ALTA | 
+|RF-003| O sistema deverá permitir ao usuário realizar seu cadastro informando: nome, telefone, senha, email e endereço | ALTA | 
+|RF-004| O sistema deverá informar ao cliente que seu pedido foi concluido com sucesso.  | MÉDIO | 
+|RF-005| O sistema deverá informar ao usuário os ingredientes de cada pizza | ALTA |
+|RF-006| O sistema deverá permitir ao usuário acessar o mapa com a localização da pizzaria |  BAIXA |
+|RF-007| O sistema deverá permitir ao usuário baixar um e-book com as receitas de algumas pizzas disponibilizadas |  MEDIO |
+|RF-008| O sistema deverá permitir ao usuário solicitar reserva de mesa caso ele queira consumir no local, informando: nome, quantidade de pessoas, data, horário da reserva e dados para contato (telefone e email). |  MEDIO |
+|RF-009| O sistema deverá enviar as solicitações das reservas para o email da pizzaria, com os dados informados pelo cliente. |  MEDIO | 
+|RF-010| O sistema deverá permitir ao usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que possa acessa-las com maior facilidade |  BAIXA |
+|RF-011| O sistema deverá permitir ao usuário solicitar reserva de uma area do estabelecimento, para confraternização, seja para empresa, aniversário e/ou casamento. Informando: nome, quantidade de pessoas, tipo de evento, data, horário da reserva e dados para contato (telefone e email).  |  BAIXA |
+
 
 
 ### ⚠️ Observação de RFs
 | Nº RFs   | Observação  | 
 |------|-----------------------------------------|
-|010 - 011  | A disponibilidade de mesas devem ser gerenciadas pela pizzaria. Uma vez que o cliente envia um pedido de reserva, a pizzara receberá a solicitação via email. A partir disso, é da competência da pizzaria analisar o horario e a disponibilidade da vaga e responder o cliente via email ou telefone se existe vagas no horario solicitado. Dessa forma, o sistema não terá uma versão/guia/ou similares, onde o proprio sistema consulte a disponibilidade de mesas e horarios.|
+|009 - 010 - 011  | A disponibilidade será gerenciada pela pizzaria. Após o cliente enviar o pedido de reserva, a solicitação chegará no email da pizzaria. Sendo ela responsável por analisar se o horário está disponivel e retornar ao cliente -email padrão gmail. Dessa forma, o sistema não terá uma versão/guia/ou similares, onde o proprio sistema consulte a disponibilidade de mesas e horarios.|
 
 
 
