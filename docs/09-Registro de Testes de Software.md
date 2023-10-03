@@ -10,8 +10,11 @@
 | Testes | CT 002 Verificar rota CRUD do carrinho |  
 |------|-----------------------------------------|
 | Critérios de êxito| RF- 002 O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  |
-| Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/4ea67790-1dc9-44db-a7a2-be360458569e) ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/a7b61a14-2e1a-4aa0-b58a-3e955377d299)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/b81d4196-9f32-405f-901e-0799fdb5e5ed)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/50f038bb-e171-4253-95f0-2b05e54f9601)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9482623b-08b4-41c4-ae51-727665132537)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/c396237f-d8a5-4d97-a05e-bcf8932edf1d)
+
+
+
+
 
 | Testes | CT 003 Verificar rota de realizar cadastro |  
 |------|-----------------------------------------|
