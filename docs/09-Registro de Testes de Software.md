@@ -3,8 +3,9 @@
 | Testes | CT 001Verificar rota da API para exibir as pizzas disponíveis |
 |------|-----------------------------------------|
 | Critérios de êxito |RF-001 O sistema deverá exibir todas as pizzas disponíveis para compra. |
-| Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/93364e59-4068-477c-93ae-0271f5718ba3) |
+| Comentário| Concluído com sucesso |
+
 
 | Testes | CT 002 Verificar rota CRUD do carrinho |  
 |------|-----------------------------------------|
@@ -15,10 +16,10 @@
 | Testes | CT 003 Verificar rota de realizar cadastro |  
 |------|-----------------------------------------|
 |Critérios de êxito| RF- 003 O sistema deverá permitir ao usuário realizar seu cadastro informando: usuário, email e senha |
-| Link da evidência em vídeo ou imagem ||
+| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/943dad8f-bed3-4837-b7f2-1370317c4a38)|
 | Comentário ||
 
-| Testes | CT 004 Verificar poup-up  envio de pedido concluído |  
+| Testes | CT 004 Verificar pop-up  envio de pedido concluído |  
 |------|-----------------------------------------|
 |Critérios de êxito| RF- 004 O sistema deverá informar ao cliente que seu pedido foi concluido com sucesso.   |
 | Link da evidência em vídeo ou imagem ||
