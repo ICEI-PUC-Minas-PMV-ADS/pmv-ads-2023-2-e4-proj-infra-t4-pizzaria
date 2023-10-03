@@ -111,7 +111,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| O sistema deverá exibir todas as pizzas disponíveis para compra. | ALTA |
 |RF-002| O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  | ALTA | 
-|RF-003| O sistema deverá permitir ao usuário realizar seu cadastro informando: nome, telefone, senha, email e endereço | ALTA | 
+|RF-003| O sistema deverá permitir ao usuário realizar seu cadastro informando: nome, senha, email  | ALTA | 
 |RF-004| O sistema deverá informar ao cliente que seu pedido foi concluido com sucesso.  | MÉDIO | 
 |RF-005| O sistema deverá informar ao usuário os ingredientes de cada pizza | ALTA |
 |RF-006| O sistema deverá permitir ao usuário acessar o mapa com a localização da pizzaria |  BAIXA |
