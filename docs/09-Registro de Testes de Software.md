@@ -2,14 +2,14 @@
 |------|-----------------------------------------|
 | Critérios de êxito | Todos os produtos aparecem |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/93364e59-4068-477c-93ae-0271f5718ba3) |
-| Comentário| Concluído com sucesso |
+| Comentário| ✅  Concluído com sucesso |
 
 
 | Testes | CT 002 Verificar rota CRUD do carrinho |  
 |------|-----------------------------------------|
 | Critérios de êxito| O usuário consegue inserir, editar e deletar produtos do carrinho  |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/b38ac21b-b833-4638-8db5-c19963a7bc2b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/666cee64-3474-420c-89b3-9d9e69c315d5)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/73f9dba9-313b-4844-87f9-83cbe99ccff7)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/de47add2-859b-4cd8-aa35-f5f067fde62b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/8546f169-c0a1-447e-b578-6008a8777426)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/20ca1c56-52cd-406d-8789-70247cfe4313)|
-|Comentário| Concluído com sucesso |
+|Comentário| ✅  Concluído com sucesso |
 
 
 
@@ -17,55 +17,55 @@
 |------|-----------------------------------------|
 |Critérios de êxito| Status Code 201. Objeto com informações do novo usuário mais senha em padrão hash |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/943dad8f-bed3-4837-b7f2-1370317c4a38)|
-| Comentário | Concluído com sucesso |
+| Comentário | ✅  Concluído com sucesso |
 
 | Testes | CT 004 Verificar pop-up  envio de pedido concluído |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 004 O sistema deverá informar ao cliente que seu pedido foi concluido com sucesso.   |
+|Critérios de êxito| pop-up aparece na tela informando que o pedido foi concluido com sucesso   |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente |
 
 | Testes | CT 005 Verificar se as informações de cada pizza está correta|  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 005 O sistema deverá informar ao usuário os ingredientes de cada pizza   |
+|Critérios de êxito| Os ingredientes de cada pizza aparecem corretamente    |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente |
 
 | Testes  | CT 006 Verificar se o usuário consegue a informação da localização da pizzaria |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 006 O sistema deverá permitir ao usuário acessar o mapa com a localização da pizzaria  |
+|Critérios de êxito| cliente conseguir acessar o endereço da pizzaria  |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente |
 
 |  Testes | CT 007 Verificar disponibilidade do ebook |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 007 O sistema deverá permitir ao usuário baixar um e-book com as receitas de algumas pizzas disponibilizadas   |
+|Critérios de êxito|  Cliente conseguir fazer o download do ebook   |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente  |
 
 
-|  Testes | CT 008 Verificar possibilidade do cliente realizar reserva |  
+|  Testes | CT 008 Verificar se a pizzaria recebeu a solicitação de reserva |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 008 O sistema deverá permitir ao usuário solicitar reserva de mesa caso ele queira consumir no local, informando: nome, quantidade de pessoas, data, horário da reserva e dados para contato (telefone e email).   |
+|Critérios de êxito| Pizzaria recebeu o email com a solicitação de reserva da mesa |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente |
 
 
-|  Testes  | CT 009 Verificar se o email do usuário com reservas de espaço são enviados para a pizzaria |  
+|  Testes  | CT 009 Verificar se o usuário consegue adicionar/visualizar/deletar pizzas em uma aba de favoritos |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 009 O sistema deverá enviar as solicitações das reservas para o email da pizzaria, com os dados informados pelo cliente.   |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+|Critérios de êxito| Cliente conseguir acessar as pizzas disponíveis ||
+| Comentário | ⚠️ Pendente |
 
-|  Testes | CT 010 Verificar a disponibilidade das pizzas favoritas |  
+|  Testes | CT 010 Verificar solicitação de reserva do espaço da pizzaria |  
 |------|-----------------------------------------|
 |Critérios de êxito| RF- 010 O sistema deverá permitir ao usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que possa acessa-las com maior facilidade   |
 | Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Comentário | ⚠️ Pendente |
 
 
 | Testes  | CT 011 Verificar se o email do usuário com reservas de espaço são enviados para a pizzaria |  
 |------|-----------------------------------------|
 |Critérios de êxito| RF- 011 O sistema deverá permitir ao usuário solicitar reserva de uma area do estabelecimento, para confraternização, seja para empresa, aniversário e/ou casamento. Informando: nome, quantidade de pessoas, tipo de evento, data, horário da reserva e dados para contato (telefone e email).  |
-| Link da evidência em vídeo ou imagem ||
-| Comentário ||
+| Link da evidência em vídeo ou imagem | Pizzaria recebeu o email com a solicitação de reserva da mesa. |
+| Comentário | ⚠️ Pendente |
