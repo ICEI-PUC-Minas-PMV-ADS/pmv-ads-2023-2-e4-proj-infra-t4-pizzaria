@@ -20,17 +20,17 @@
 | Passos | Ultizando o insomnia informar o metodo post com a devida rota, passar um body json com as informações de usuário; email e senha, clicar em send. |
 | Critérios de êxito | Status Code 201. Objeto com informações do novo usuário mais senha em padrão hash |
 
-| Caso de teste 004| Verificar poup-up  envio de pedido concluído |  
+| Caso de teste 004| Verificar pop-up  envio de pedido concluído |  
 |--------|-----------------------------------------|
 |Requisito Associado| RF- 004 O sistema deverá informar ao cliente que seu pedido foi concluido com sucesso.   |
 | Passos | Clicar no botão realizar pedido. |
-| Critérios de êxito | poup-up aparecer em tela informando que o pedido foi concluido com sucesso |
+| Critérios de êxito | pop-up aparece na tela informando que o pedido foi concluido com sucesso |
 
 | Caso de teste 005| Verificar se as informações de cada pizza está correta|  
 |--------|-----------------------------------------|
 |Requisito Associado| RF- 005 O sistema deverá informar ao usuário os ingredientes de cada pizza   |
 | Passos | entrar no site e verificar abaixo da pizza seus ingredientes |
-| Critérios de êxito | ingredientes completos|
+| Critérios de êxito | Os ingredientes de cada pizza aparecem corretamente |
 
 | Caso de teste 006 | Verificar se o usuário consegue a informação da localização da pizzaria |  
 |------|-----------------------------------------|
@@ -42,16 +42,16 @@
 |------|-----------------------------------------|
 |Requisito Associado| RF- 007 O sistema deverá permitir ao usuário baixar um e-book com as receitas de algumas pizzas disponibilizadas   |
 | Passos | Entrar no site, clicar no link de baixar ebook|
-| Critérios de êxito | Cliente conseguir fazer o download e ler a informações|
+| Critérios de êxito | Cliente conseguir fazer o download do ebook |
 
 
-| Caso de teste 008 | Verificar o email da pizzaria recebeu a solicitação de reserva|  
+| Caso de teste 008 | Verificar se a pizzaria recebeu a solicitação de reserva|  
 |---------|-----------------------------------------|
 |Requisito Associado| RF- 009 O sistema deverá enviar as solicitações das reservas para o email da pizzaria, com os dados informados pelo cliente. RF- 008 O sistema deverá permitir ao usuario solicitar reserva de mesa caso ele queira consumir no local, informando:n nome quantidade de pessoas, data, horário da reserva e dados para contato (telefone e email)    |
 | Passos | Abrir o email da pizzaria e verificar se o email de solicitação de reserva foi recebido |
 | Critérios de êxito | Pizzaria recebeu o email com a solicitação de reserva da mesa |
 
-| Caso de teste 009 | Verificar a disponibilidade das pizzas favoritas |  
+| Caso de teste 009 | Verificar se o usuário consegue adicionar/visualizar/deletar pizzas em uma aba de favoritos |  
 |---------|-----------------------------------------|
 |Requisito Associado| RF- 010 O sistema deverá permitir ao usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que possa acessa-las com maior facilidade   |
 | Passos | Acessar o site e clicar em pizzas favoritas. |
