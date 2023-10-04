@@ -1,13 +1,13 @@
-| Testes | CT 001 Verificar rota da API para exibir as pizzas disponíveis |
+| Testes | CT 001 Mostrar produtos disponíveis |
 |------|-----------------------------------------|
-| Critérios de êxito |RF-001 O sistema deverá exibir todas as pizzas disponíveis para compra. |
+| Critérios de êxito | Todos os produtos aparecem |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/93364e59-4068-477c-93ae-0271f5718ba3) |
 | Comentário| Concluído com sucesso |
 
 
 | Testes | CT 002 Verificar rota CRUD do carrinho |  
 |------|-----------------------------------------|
-| Critérios de êxito| RF- 002 O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  |
+| Critérios de êxito| O usuário consegue inserir, editar e deletar produtos do carrinho  |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/b38ac21b-b833-4638-8db5-c19963a7bc2b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/666cee64-3474-420c-89b3-9d9e69c315d5)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/73f9dba9-313b-4844-87f9-83cbe99ccff7)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/de47add2-859b-4cd8-aa35-f5f067fde62b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/8546f169-c0a1-447e-b578-6008a8777426)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/20ca1c56-52cd-406d-8789-70247cfe4313)|
 |Comentário| Concluído com sucesso |
 
@@ -15,9 +15,9 @@
 
 | Testes | CT 003 Verificar rota de realizar cadastro |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 003 O sistema deverá permitir ao usuário realizar seu cadastro informando: usuário, email e senha |
+|Critérios de êxito| Status Code 201. Objeto com informações do novo usuário mais senha em padrão hash |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/943dad8f-bed3-4837-b7f2-1370317c4a38)|
-| Comentário ||
+| Comentário | Concluído com sucesso |
 
 | Testes | CT 004 Verificar pop-up  envio de pedido concluído |  
 |------|-----------------------------------------|
