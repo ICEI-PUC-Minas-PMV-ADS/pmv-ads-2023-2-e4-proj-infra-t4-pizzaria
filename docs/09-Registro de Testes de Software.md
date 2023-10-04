@@ -1,4 +1,4 @@
-# Registro de Testes de Software
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/5cd62555-ca89-4485-a339-811503b8eee9)# Registro de Testes de Software
 
 | Testes | CT 001Verificar rota da API para exibir as pizzas disponíveis |
 |------|-----------------------------------------|
@@ -10,9 +10,8 @@
 | Testes | CT 002 Verificar rota CRUD do carrinho |  
 |------|-----------------------------------------|
 | Critérios de êxito| RF- 002 O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  |
-| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/4ea67790-1dc9-44db-a7a2-be360458569e) ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/a7b61a14-2e1a-4aa0-b58a-3e955377d299)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/b81d4196-9f32-405f-901e-0799fdb5e5ed)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/50f038bb-e171-4253-95f0-2b05e54f9601)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9482623b-08b4-41c4-ae51-727665132537)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/c396237f-d8a5-4d97-a05e-bcf8932edf1d)
-
-
+| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/b38ac21b-b833-4638-8db5-c19963a7bc2b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/666cee64-3474-420c-89b3-9d9e69c315d5)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/73f9dba9-313b-4844-87f9-83cbe99ccff7)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/de47add2-859b-4cd8-aa35-f5f067fde62b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/8546f169-c0a1-447e-b578-6008a8777426)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/20ca1c56-52cd-406d-8789-70247cfe4313)|
+|Comentário| Concluído com sucesso |
 
 
 
