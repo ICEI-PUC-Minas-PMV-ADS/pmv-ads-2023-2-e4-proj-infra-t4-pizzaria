@@ -2,11 +2,11 @@
 
 
 
-| Caso de teste 001 |Verificar rota da API para exibir as pizzas disponíveis |
+| Caso de teste 001 | Mostrar produtos disponíveis  |
 |------|----------------------------------------------------------------------|
 |Requisito Associado |RF-001 O sistema deverá exibir todas as pizzas disponíveis para compra. |
 | Passos | Ultizando o insomnia informar o metodo get com a rota definida pela API. Clicar em "send" e verificar se o retorno do status code foi 200 e as informações da pizza foram retornadas |
-| Critérios de êxito | O cardápio de pizza foi retornado com sucesso|
+| Critérios de êxito | Todos os produtos aparecem |
 
 | Caso de teste 002 | Verificar rota CRUD do carrinho |  
 |--------|-----------------------------------------|
@@ -18,7 +18,7 @@
 |-------|-----------------------------------------|
 |Requisito Associado| RF- 003 O sistema deverá permitir ao usuário realizar seu cadastro informando: usuário, email e senha |
 | Passos | Ultizando o insomnia informar o metodo post com a devida rota, passar um body json com as informações de usuário; email e senha, clicar em send. |
-| Critérios de êxito | Verificar se o Status Code 201 foi retornado e o objeto que informa email; usuário e senha no padrão hash |
+| Critérios de êxito | Status Code 201. Objeto com informações do novo usuário mais senha em padrão hash |
 
 | Caso de teste 004| Verificar poup-up  envio de pedido concluído |  
 |--------|-----------------------------------------|
