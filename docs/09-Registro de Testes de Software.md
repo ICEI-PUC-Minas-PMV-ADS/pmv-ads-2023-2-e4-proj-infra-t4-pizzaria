@@ -1,6 +1,4 @@
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/5cd62555-ca89-4485-a339-811503b8eee9)# Registro de Testes de Software
-
-| Testes | CT 001Verificar rota da API para exibir as pizzas disponíveis |
+| Testes | CT 001 Verificar rota da API para exibir as pizzas disponíveis |
 |------|-----------------------------------------|
 | Critérios de êxito |RF-001 O sistema deverá exibir todas as pizzas disponíveis para compra. |
 | Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/93364e59-4068-477c-93ae-0271f5718ba3) |
