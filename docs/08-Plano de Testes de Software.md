@@ -3,16 +3,14 @@
 
 
 | Caso de teste 001 |Verificar rota da API para exibir as pizzas disponíveis |
-|------|-----------------------------------------|
+|------|----------------------------------------------------------------------|
 |Requisito Associado |RF-001 O sistema deverá exibir todas as pizzas disponíveis para compra. |
-| Passos | Ultizando o insomnia informar o metodo get com a rota definida pela API. Clicar em "send" e verificar se o 
-retorno do status code foi 200 e as informações da pizza foram retornadas |
+| Passos | Ultizando o insomnia informar o metodo get com a rota definida pela API. Clicar em "send" e verificar se o retorno do status code foi 200 e as informações da pizza foram retornadas |
 | Critérios de êxito | O cardápio de pizza foi retornado com sucesso|
 
 | Caso de teste 002 | Verificar rota CRUD do carrinho |  
 |--------|-----------------------------------------|
-|Requisito Associado| RF- 002 O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, 
-além disso seja possível exibir o resumo do pedido, assim como o total a pagar  |
+|Requisito Associado| RF- 002 O sistema deverá ter um carrinho de compras para que o usuário possa adicionar, remover itens, e, além disso seja possível exibir o resumo do pedido, assim como o total a pagar  |
 | Passos |  Ultizando o insomnia informar os metodos: post; get; put; delete.  |
 | Critérios de êxito | O usuário consegue inserir, editar e deletar produtos do carrinho|
 
