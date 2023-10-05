@@ -1,11 +1,14 @@
 # Instruções de utilização
 
-## Instalação do Site
+## ➕ Instalando Dependência
+Ao baixar/clonar o repositório, acesse a pasta ```server```.
+Ao acessar essa pasta, utilize o bash ou seu terminal favorito e rode o seguinte comando:
+```bash
+npm install
+```
 
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AAAA
-#### Adicionado
-- Adicionado ...
+## 🛞 Rodando o servidor...
+Para rodar o backend, utilize o bash ou terminal favorito para rodar o comando a seguir:
+```bash
+npm start
+```
