@@ -72,3 +72,54 @@ Exemplos:
 
 
 ### 💻 2. Versão Localhost 
+
+Após instalações de todas as dependências utilizando o npm install, é necessário criar um arquivo ```.env``` na pasta ```server```<br>
+Nessa pasta, você adicionará a seguinte linha de código:
+
+```bash
+MONGO_URL = mongodb+srv://walbergs48:nj96003411@cluster0.mt2tjtn.mongodb.net/
+PASS_SEC = emnomedejesusvaidarcerto
+JWT_SEC = elavamosnos
+STRIPE_KEY = sk_test_51NvPRWAE85GN1tmsi2hclLJUNcIWPlNNdUsUMnZAIX3PJmEBGj0eFvRPRV4Emc2x6a3FBZul58l7pDTQ0rOXEjHf00dOfiFkYg
+```
+Exemplo: 
+![Exemplo.env]()
+
+
+Logo após, será necessário adcionar a extensão ```MongoDB for VS Code``` ao seu Visual Studio Code.
+
+![ExemploMongDBInstall]()
+
+
+Após adicionar a extenção, você deverá se conectar se conectar ao servidor utilizando da extensão.
+Segue o exemplo
+
+##Passo 1
+![ExemploMongDBConnecting]()
+
+
+##Passo 2
+Ao clicar em ```Connect``` abrirá um campo em sua IDE, e no mesmo você irá adicionar a seguinte linha de código:
+```bash
+  mongodb+srv://walbergs48:nj96003411@cluster0.mt2tjtn.mongodb.net/
+```
+
+Exemplo:
+
+![ExemploMongDBConnected]()
+
+E o deverá ficar da seguinte forma:
+
+![MongoDBExemplo]()
+
+
+## Passo 3
+
+Para finalizar, você irá rodar o comando para rodar o backend
+```bash
+npm start
+``` 
+
+
+
+
