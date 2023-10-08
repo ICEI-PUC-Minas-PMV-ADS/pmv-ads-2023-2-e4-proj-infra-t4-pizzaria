@@ -58,5 +58,7 @@ As ferramentas empregadas no projeto são:
 - WhatsApp e Teams para comunição.
 - Figma
 - Trello
+- MongoDB
+- Insomnia
 
 As ferramentas foram selecionadas de formar a aprimorar a capacidade, a enficiência e a colaboração da equipe do projeto. Como ambiente de desenvolvimento foi escolhido o VS Code por ser uma plataforma robusta para codificação e depuração, além de possuir uma integração com o sistema de versão e ser um ambiente familiar para o time. De forma semelhante, WhatsApp e Teams foram selecionadoscomo ferramentas de comunicação por serem de fácil integração e conhecidos. Por fim, utilizamos o Figma para design por simplificar o processo de design interativo e o Trello para a organização e distribuição de tarefas. 
