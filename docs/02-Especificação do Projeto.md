@@ -160,7 +160,9 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/14cf189b-719f-4b07-acc7-0064c7e143b6)
+![rastreabilidade - Made with DesignCap](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/565076f8-9f97-4410-89ca-ca71049150f8)
+
+
 
 # Gerenciamento de Projeto
 
