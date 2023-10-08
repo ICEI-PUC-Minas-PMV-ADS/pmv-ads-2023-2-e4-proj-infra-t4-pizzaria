@@ -83,22 +83,22 @@ JWT_SEC = elavamosnos
 STRIPE_KEY = sk_test_51NvPRWAE85GN1tmsi2hclLJUNcIWPlNNdUsUMnZAIX3PJmEBGj0eFvRPRV4Emc2x6a3FBZul58l7pDTQ0rOXEjHf00dOfiFkYg
 ```
 Exemplo: 
-![Exemplo.env]()
+![Exemplo.env](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9f5af2a3a7728be795a27e9d8c5ef557438ac34c/docs/img/exemplo%20.env.png)
 
 
 Logo após, será necessário adcionar a extensão ```MongoDB for VS Code``` ao seu Visual Studio Code.
 
-![ExemploMongDBInstall]()
+![ExemploMongDBInstall](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9f5af2a3a7728be795a27e9d8c5ef557438ac34c/docs/img/MongoDB%20Install.png)
 
 
 Após adicionar a extenção, você deverá se conectar se conectar ao servidor utilizando da extensão.
 Segue o exemplo
 
-##Passo 1
-![ExemploMongDBConnecting]()
+## Passo 1
+![ExemploMongDBConnecting](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9f5af2a3a7728be795a27e9d8c5ef557438ac34c/docs/img/ConnectionMongoDB.png)
 
 
-##Passo 2
+## Passo 2
 Ao clicar em ```Connect``` abrirá um campo em sua IDE, e no mesmo você irá adicionar a seguinte linha de código:
 ```bash
   mongodb+srv://walbergs48:nj96003411@cluster0.mt2tjtn.mongodb.net/
@@ -106,11 +106,11 @@ Ao clicar em ```Connect``` abrirá um campo em sua IDE, e no mesmo você irá ad
 
 Exemplo:
 
-![ExemploMongDBConnected]()
+![ExemploMongDBConnected](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9f5af2a3a7728be795a27e9d8c5ef557438ac34c/docs/img/ConectedMongoDB.png)
 
 E o deverá ficar da seguinte forma:
 
-![MongoDBExemplo]()
+![MongoDBExemplo](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/9f5af2a3a7728be795a27e9d8c5ef557438ac34c/docs/img/ExemploConectado.png)
 
 
 ## Passo 3
