@@ -71,23 +71,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+O projeto tem como proposta criar um site mais acertivo e direcionado para fidelização do cliente. 
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+No BPMN abaixo é possível verificar as rotas que serão desenvolvidas no decorrer do trabalho, desde realizar um pedido a reservar mesa disponível
 
-### Processo 1 - Processo completo
- 
-![_Fluxograma (2)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/f108a05a-80dc-44cd-81f4-a02c6841192d)
-
-### Processo 2 - Pedido do cliente
-
-![_Fluxograma (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/11d97661-1670-45f6-b930-4f350c3967af)
-
-### Processo 3 - Alteração do cardápio/visualização dos pedidos
-
-![_Fluxograma (4)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103226164/91cd417b-695f-47b0-97ad-a6a59a227969)
+![BPMN - PIZZARIA](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/104041600/269947dd-fc2e-4da2-aadc-5f3e1881caf0)
 
 ## Indicadores de Desempenho
 
