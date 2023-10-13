@@ -5,6 +5,7 @@ import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
 import Products from "../components/Products"
 import Reservation from "../components/Reservation"
+import ReservationPlace from "../components/ReservationPlace"
 import Slogan from "../components/Slogan"
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
       <Categories />
       <Products />
       <Reservation />
+      <ReservationPlace />
       <Footer />
     </div>
   )
