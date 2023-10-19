@@ -1,4 +1,3 @@
-import AboutUs from "../components/AboutUs"
 import Announcement from "../components/Announcement"
 import Categories from "../components/Categories"
 import Footer from "../components/Footer"
