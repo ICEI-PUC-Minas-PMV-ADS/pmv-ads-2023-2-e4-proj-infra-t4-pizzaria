@@ -1,14 +1,3 @@
-import Pizza1 from "./imgs/pizza1.png"
-import Pizza2 from "./imgs/pizza2.png"
-import Pizza3 from "./imgs/pizza3.png"
-import Pizza4 from "./imgs/pizza4.png"
-import Pizza5 from "./imgs/pizza5.png"
-import Pizza6 from "./imgs/pizza6.png"
-import Pizza7 from "./imgs/pizza7.png"
-import Pizza8 from "./imgs/pizza8.png"
-import Pizza9 from "./imgs/pizza9.png"
-
-
 export const categories = [
   {
     id: 1,
@@ -30,58 +19,58 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: Pizza1,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza1.png?raw=true",
     title: "Pizza1",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 40
   },
   {
     id: 2,
-    img: Pizza2,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza2.png?raw=true",
     title: "Pizza2",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 38
   },
   {
     id: 3,
-    img: Pizza3,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza3.png?raw=true",
     title: "Pizza3",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price:42
   },
   {
     id: 4,
-    img: Pizza4,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza4.png?raw=true",
     title: "Pizza4",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 35
   },
   {
     id: 5,
-    img: Pizza5,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza5.png?raw=true",
     title: "Pizza5",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 46
   },
   {
     id: 6,
-    img: Pizza6,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza6.png?raw=true",
     title: "Pizza6",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 34
   },
   {
     id: 7,
-    img: Pizza7,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza7.png?raw=true",
     title: "Pizza7",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 34
   },
   {
     id: 8,
-    img: Pizza8,
+    img: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza8.png?raw=true",
     title: "Pizza8",
     desc: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-    price: 50
+    price: 40
   },
 ]
