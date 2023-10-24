@@ -16,9 +16,15 @@ export default {
       },
       height: {
         '70vh': '70vh',
+        '50vh': '50vh',
       },
       minWidth: {
         '50': '200px',
+      },
+      flex: {
+        '2': '2',
+        '3': '3',
+        'one': '1'
       }
     },
   },
