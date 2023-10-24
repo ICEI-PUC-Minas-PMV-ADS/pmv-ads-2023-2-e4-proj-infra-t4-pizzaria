@@ -8,6 +8,14 @@ const productRoute = require("./routes/product");
 const cartRoute = require("./routes/cart");
 const orderRoute = require("./routes/order")
 
+const cors = require("cors");
+
+app.use(cors({
+  origin: "http://localhost:5173", 
+  methods: "GET,POST,PUT,DELETE",
+  credentials: true, 
+}));
+
 
 dotenv.config();
 
@@ -30,4 +38,3 @@ app.use("/api/orders", orderRoute);
 app.listen(process.env.PORT || 5000, () => {
   console.log("backend server is running!");
 });
-
