@@ -11,7 +11,7 @@ import './styles/global.css'
 function App() {
 
   return (
-    <Register/>
+    <Home/>
   )
 }
 
