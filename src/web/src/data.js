@@ -2,17 +2,20 @@ export const categories = [
   {
     id: 1,
     img: "https://images.pexels.com/photos/2147491/pexels-photo-2147491.jpeg?auto=compress&cs=tinysrgb&w=400",
-    title: "PIZZAS SALGADAS"
+    title: "PIZZAS SALGADAS",
+    cat: "salgada"
   },
   {
     id: 2,
     img: "https://images.pexels.com/photos/2471171/pexels-photo-2471171.jpeg?auto=compress&cs=tinysrgb&w=400",
-    title: "PIZZAS DOCES"
+    title: "PIZZAS DOCES",
+    cat: "doce"
   },
   {
     id: 3,
     img: "https://images.pexels.com/photos/5817624/pexels-photo-5817624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    title: "BEBIDAS"
+    title: "BEBIDAS",
+    cat: "bebida"
   },
 ]
 
