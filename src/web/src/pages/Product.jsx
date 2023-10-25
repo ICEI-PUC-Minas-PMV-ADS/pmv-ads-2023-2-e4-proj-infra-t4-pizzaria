@@ -13,6 +13,7 @@ const Product = () => {
   const location = useLocation();
   const id = location.pathname.split("/")[2];
   const [product, setProduct] = useState({});
+  const [quantity, setQuantity] = useState(1);
 
   useEffect(() => {
     const getProduct = async () => {
@@ -23,6 +24,14 @@ const Product = () => {
     };
     getProduct();
   }, [id]);
+
+  const handleQuantity = (type) => {
+    if(type === "dec") {
+      quantity>1 && setQuantity(quantity - 1)
+    } else {
+      setQuantity(quantity + 1)
+    }
+  }
 
   return (
     <div className="Container">
@@ -38,11 +47,11 @@ const Product = () => {
           <span className="Price font-thin text-4xl">R$ {product.price}</span>
           <div className="AddContainer flex items-center justify-between mt-7">
             <div className="AmountContainer flex items-center font-bold">
-              <Remove className="cursor-pointer" />
+              <Remove className="cursor-pointer" onClick={() => handleQuantity("dec")}/>
               <span className="Amount w-7 h-7 rounded-lg border-2 border-teal-600 flex items-center justify-center my-0 mx-5">
-                1
+                {quantity}
               </span>
-              <Add className="cursor-pointer" />
+              <Add className="cursor-pointer" onClick={() => handleQuantity("inc")}/>
             </div>
             <button className="cursor-pointer border-2 font-medium border-teal-600 p-3 rounded-lg hover:bg-teal-600 hover:text-white transition-all duration-700">
               ADICIONAR AO CARRINHO
