@@ -19,12 +19,13 @@ const Products = ({cat, sort}) => {
 
         setProducts(res.data)
 
-        console.log(res.data)
+        //console.log(res.data)
       } catch (error) {}
     }
     getProducts()
   }, [cat])
 
+  
   return (
     <div className="Container p-5 grid grid-cols-4">
       {products.map(item => (

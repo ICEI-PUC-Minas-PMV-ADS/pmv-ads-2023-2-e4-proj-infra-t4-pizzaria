@@ -14,7 +14,7 @@ const ProductList = () => {
     <div className="Container ">
       <Navbar />
       <Announcement />
-      <h1 className="font-semibold text-3xl m-5">Pizzas</h1>
+      <h1 className="font-semibold text-3xl m-5">{cat}</h1>
       <div className="FilterContainer flex justify-between">
         {/* <div className="Filter m-5">
           <span className="text-xl font-semibold mr-5">Filtrar Produtos: </span>
