@@ -4,6 +4,9 @@ import {
   SearchOutlined,
 } from "@mui/icons-material";
 
+import { Link } from "react-router-dom"
+
+
 const Product = ({ item }) => {
   return (
     <div className="Container bg-pizzaria rounded-2xl flex flex-1 flex-col m-1 min-w-min h-96 items-center justify-center">
@@ -22,7 +25,9 @@ const Product = ({ item }) => {
             <FavoriteBorderOutlined />
           </div>
           <div className="Icon cursor-pointer hover:scale-150 transition-all">
-            <SearchOutlined />
+            <Link to={`/product/${item._id}`}>
+              <SearchOutlined />
+            </Link>
           </div>
         </div>
       </div>
