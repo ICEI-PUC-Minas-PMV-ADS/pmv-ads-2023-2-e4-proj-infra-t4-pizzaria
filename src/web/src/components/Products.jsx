@@ -25,7 +25,7 @@ const Products = ({cat, sort}) => {
     getProducts()
   }, [cat])
 
-  
+
   return (
     <div className="Container p-5 grid grid-cols-4">
       {products.map(item => (
