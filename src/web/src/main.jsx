@@ -1,8 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import {Provider} from "react-redux"
-import store from "./redux/store.js"
 
 import Product from './pages/Product.jsx'
 import Home from './pages/Home.jsx'
@@ -13,6 +11,9 @@ import Cart from './pages/Cart.jsx'
 import ErrorPage from './pages/ErrorPage.jsx'
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom"
+
+import {Provider} from "react-redux"
+import store from "./redux/store.js"
 
 const user = true
 
@@ -46,10 +47,23 @@ const route = createBrowserRouter([
   },
 ])
 
+// ReactDOM.createRoot(document.getElementById('root')).render(
+//   <React.StrictMode>
+//     <RouterProvider router={route}/>
+//   </React.StrictMode>,
+// )
+
+// ReactDOM.createRoot(document.getElementById('root')).render(
+//   <React.StrictMode >
+//     <Provider store={store}>
+//     <RouterProvider  router={route}/>
+//     </Provider>
+//   </React.StrictMode>,
+// )
+
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode >
-    <Provider store={store}>
-    <RouterProvider  router={route}/>
-    </Provider>
-  </React.StrictMode>,
+  <Provider store={store}>
+    <RouterProvider router={route}/>
+  </Provider >,
 )
+
