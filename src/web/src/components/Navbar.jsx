@@ -1,11 +1,9 @@
 import { Badge } from "@mui/material";
 import { Search, ShoppingBasketOutlined } from "@mui/icons-material";
-import { useSelector } from "react-redux";
 
 import { Link } from "react-router-dom"
 
 const Navbar = () => {
-  const quantity = useSelector(state => state.cart.quantity)
   return (
     <div className="Container h-14">
       <div className="Wrapper py-2 px-5 flex justify-between items-center">
@@ -27,7 +25,7 @@ const Navbar = () => {
               <li>REGISTER</li>
               <li>SIGN IN</li>
               <li>
-                <Badge badgeContent={quantity} color="primary">
+                <Badge badgeContent={4} color="primary">
                   <ShoppingBasketOutlined />
                 </Badge>
               </li>
