@@ -28,7 +28,7 @@ const Cart = () => {
                 <div className="ProductDetail flex-2 flex">
                   <img className="w-40" src={product.img} />
                   <div className="Datails p-5 flex flex-col justify-around">
-                    <span><b>Produto:</b>{product.title}</span>
+                    <span><b>Produto:</b> {product.title}</span>
                     <span><b>ID:</b> {product._id} </span>
                   </div>
                 </div>
@@ -42,7 +42,6 @@ const Cart = () => {
                 </div>
               </div>
             ))}
-
 
             <hr className="bg-gray-200 border-none h-1" />
 
