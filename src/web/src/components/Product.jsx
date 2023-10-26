@@ -3,11 +3,27 @@ import {
   FavoriteBorderOutlined,
   SearchOutlined,
 } from "@mui/icons-material";
+import { Link } from 'react-router-dom';
+import { addProduct } from "../redux/cartRedux";
+import { useDispatch } from "react-redux";
+import { useEffect, useState } from "react";
 
-import { Link } from "react-router-dom"
+
 
 
 const Product = ({ item }) => {
+  const [quantity, setQuantity] = useState(1);
+  const [ setProduct] = useState({});
+  const dispatch = useDispatch();
+  
+
+
+  const handleClick = () => {
+    //update cart
+    dispatch(
+      addProduct({ ...item, quantity }))
+  };
+
   return (
     <div className="Container bg-pizzaria rounded-2xl flex flex-1 flex-col m-1 min-w-min h-96 items-center justify-center">
       <img src={item.img} className="h-1/3 mb-4" />
@@ -19,7 +35,7 @@ const Product = ({ item }) => {
 
         <div className="Icons flex flex-row gap-8">
           <div className="Icon cursor-pointer hover:scale-150 transition-all">
-            <AddShoppingCartOutlined />
+            <AddShoppingCartOutlined onClick={handleClick} />
           </div>
           <div className="Icon cursor-pointer hover:scale-150 transition-all">
             <FavoriteBorderOutlined />

@@ -2,8 +2,10 @@ import Navbar from "../components/Navbar"
 import Announcement from "../components/Announcement"
 import Footer from "../components/Footer"
 import { Add, Remove } from "@mui/icons-material"
+import { useSelector } from "react-redux"
 
 const Cart = () => {
+  const cart = useSelector((state) => state.cart)
   return (
     <div className="Container ">
       <Navbar />
@@ -21,44 +23,28 @@ const Cart = () => {
 
         <div className="Bottom flex justify-between">
           <div className="Info flex-3">
+            {cart.products.map((product) => (
+              <div className="Product my-5 flex justify-between">
+                <div className="ProductDetail flex-2 flex">
+                  <img className="w-40" src={product.img} />
+                  <div className="Datails p-5 flex flex-col justify-around">
+                    <span><b>Produto:</b>{product.title}</span>
+                    <span><b>ID:</b> {product._id} </span>
+                  </div>
+                </div>
+                <div className="PriceDetail flex-one flex flex-col items-center justify-center">
+                  <div className="ProductAmountContainer flex items-center mb-5">
+                    <Add />
+                    <div className="ProductAmount text-2xl m-2">{product.quantity}</div>
+                    <Remove />
+                  </div>
+                  <div className="ProductPrice text-3xl font-extralight">R$ {product.price * product.quantity}</div>
+                </div>
+              </div>
+            ))}
 
-            <div className="Product my-5 flex justify-between">
-              <div className="ProductDetail flex-2 flex">
-                <img className="w-40" src="https://github.com/walbergomes/imgs-eixo4/blob/main/pizza8.png?raw=true"/>
-                <div className="Datails p-5 flex flex-col justify-around">
-                  <span><b>Produto:</b> PIZZA 8 </span>
-                  <span><b>ID:</b> 94595349034 </span>
-                </div>
-              </div>
-              <div className="PriceDetail flex-one flex flex-col items-center justify-center">
-                <div className="ProductAmountContainer flex items-center mb-5">
-                  <Add />
-                  <div className="ProductAmount text-2xl m-2">2</div>
-                  <Remove />
-                </div>
-                <div className="ProductPrice text-3xl font-extralight">R$ 86</div>
-              </div>
-            </div>
 
-            <hr className="bg-gray-200 border-none h-1"/>
-
-            <div className="Product my-5 flex justify-between">
-              <div className="ProductDetail flex-2 flex">
-                <img className="w-40" src="https://github.com/walbergomes/imgs-eixo4/blob/main/pizza5.png?raw=true"/>
-                <div className="Datails p-5 flex flex-col justify-around">
-                  <span><b>Produto:</b> PIZZA 4 </span>
-                  <span><b>ID:</b> 8443453455 </span>
-                </div>
-              </div>
-              <div className="PriceDetail flex-one flex flex-col items-center justify-center">
-                <div className="ProductAmountContainer flex items-center mb-5">
-                  <Add />
-                  <div className="ProductAmount text-2xl m-2">1</div>
-                  <Remove />
-                </div>
-                <div className="ProductPrice text-3xl font-extralight">R$ 38</div>
-              </div>
-            </div>
+            <hr className="bg-gray-200 border-none h-1" />
 
           </div>
           <div className="Summary flex-one border-2 border-gray-300 rounded-xl p-5 h-70vh">
@@ -66,7 +52,7 @@ const Cart = () => {
 
             <div className="SummaryItem my-8 mx-0 flex justify-between">
               <span>Subtotal:</span>
-              <span>R$ 124,00</span>
+              <span>R$ {cart.total}</span>
             </div>
             <div className="SummaryItem my-8 mx-0 flex justify-between">
               <span>Frete:</span>
@@ -78,7 +64,7 @@ const Cart = () => {
             </div>
             <div className="SummaryItem my-8 mx-0 flex justify-between font-medium text-2xl">
               <span className="">Total:</span>
-              <span>R$ 124,00</span>
+              <span>R$ {cart.total}</span>
             </div>
             <button className="w-full p-3 bg-black text-white font-semibold">CHECKOUT</button>
           </div>
