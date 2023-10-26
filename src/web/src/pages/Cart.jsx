@@ -11,8 +11,6 @@ import StripeCheckout from "react-stripe-checkout";
 
 import { userRequest } from "../requestMethods"
 
-
-
 // const KEY = JSON.stringify(import.meta.env.VITE_REACT_APP_STRIPE)
 // console.log(KEY)
 const KEY = "pk_test_51NvPRWAE85GN1tmscXACWc2wRBACftlupULXfCmQxwY6lF2XKmETJQmxlVzXgWV0tShFxZuYIQcbVql6BZKVsvzX00cP6AqZRp"
