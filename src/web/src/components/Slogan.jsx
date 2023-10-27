@@ -27,7 +27,7 @@ const Slogan = () => {
         <div className="Download pt-6 flex flex-row items-center gap-3">
           <button className="bg-orange-test rounded-3xl py-2 px-5 text-white flex flex-row gap-2">
             <FileDownloadOutlined />
-            <a href="" download > Download </a>
+            <a href="../../receitas.pdf" download> Download </a>
           </button>
           <p className="text-base font-medium leading-tight">Clique no botão ao lado e baixe as receitas <br/> de nossas <span className="text-orange-test">pizzas mais famosas</span></p>
         </div>
