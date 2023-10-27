@@ -1,24 +1,27 @@
 import Navbar from "../components/Navbar";
 import Announcement from "../components/Announcement";
 import Footer from "../components/Footer";
-
 import { Add, Remove } from "@mui/icons-material";
+
+import { useEffect, useState } from "react";
 
 import { useSelector } from "react-redux";
 
 import StripeCheckout from "react-stripe-checkout";
-import { useState } from "react";
 
-const KEY = import.meta.env.REACT_APP_STRIPE;
+import { userRequest } from "../requestMethods"
+
+// const KEY = JSON.stringify(import.meta.env.VITE_REACT_APP_STRIPE)
+// console.log(KEY)
+const KEY = "pk_test_51NvPRWAE85GN1tmscXACWc2wRBACftlupULXfCmQxwY6lF2XKmETJQmxlVzXgWV0tShFxZuYIQcbVql6BZKVsvzX00cP6AqZRp"
 
 const Cart = () => {
   const cart = useSelector((state) => state.cart);
-  const [stripeToken, setStripeToken] = useState(null)
-
+  const [stripeToken, setStripeToken] = useState(null);
+ 
   const onToken = (token) => {
-    setStripeToken(token)
-  }
-  console.log(stripeToken)
+    setStripeToken(token);
+  };
 
   return (
     <div className="Container ">
@@ -94,19 +97,20 @@ const Cart = () => {
               <span className="">Total:</span>
               <span>R$ {cart.total}</span>
             </div>
-            <StripeCheckout
-              name="Pizzaria"
-              image="https://avatars.githubusercontent.com/u/1486366?v=4"
-              billingAddress
-              shippingAddress
-              description={`O total do seu pedido é R$ ${cart.total}`}
-              amount={cart.total*100}
-              token={onToken}
-              stripeKey={KEY}
+            <StripeCheckout 
+            name="Pizzaria"
+            billingAddress
+            shippingAddress
+            description={`Total foi de R$ ${cart.total}`}
+            amount={cart.total*100}
+            token={onToken}
+            stripeKey={KEY}
             >
+
               <button className="w-full p-3 bg-black text-white font-semibold">
                 CHECKOUT
               </button>
+           
             </StripeCheckout>
           </div>
         </div>

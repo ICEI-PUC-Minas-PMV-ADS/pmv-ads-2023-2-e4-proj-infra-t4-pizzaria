@@ -6,7 +6,7 @@
 
 `4º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Introdução ao projeto: <a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a>
 
 ## Integrantes
 

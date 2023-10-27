@@ -50,6 +50,20 @@ const route = createBrowserRouter([
   },
 ])
 
+// ReactDOM.createRoot(document.getElementById('root')).render(
+//   <React.StrictMode>
+//     <RouterProvider router={route}/>
+//   </React.StrictMode>,
+// )
+
+// ReactDOM.createRoot(document.getElementById('root')).render(
+//   <React.StrictMode >
+//     <Provider store={store}>
+//     <RouterProvider  router={route}/>
+//     </Provider>
+//   </React.StrictMode>,
+// )
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode >
     <Provider store={store}>
@@ -59,3 +73,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     </Provider>
   </React.StrictMode>,
 )
+

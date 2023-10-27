@@ -50,29 +50,35 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 
 <div>
  <h3>💻 Versão Web</h3>
- <h4>Home</h4>
- <img width="500px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/72ca02ed-31f8-46fc-8967-5533b39f15d0"/> 
+<h4>Home</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/14dae4c8-8156-4c65-9cec-89b7defaf553"/>
 
- <h4>Pedidos</h4>
- <img width="500px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/0cbaebbc-d35b-4e03-ba14-6638558c1fac"/>
+<h4>Categoria Salgadas</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/ee3f8e9c-5be8-4a1e-be16-5e494b0d567f"/>
 
- <h4>Pedido Aprovado</h4>
- <img width="500px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9248f973-2860-4c20-87d7-39bd59891447"/>
+<h4>Categoria Doces</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/79543ee4-369e-4cdc-9d88-7b062472ef44"/>
+
+<h4>Produto</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/d1696677-d647-4780-955d-146a31441e08"/>
+
+<h4>Carrinho</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/4899078e-223c-4eef-87a7-aca2d6cf17b7"/>
+
+<h4>Endereço</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/899d51db-8509-45f7-9fa1-c17149e64c98"/>
+
+<h4>Pagamento</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/e9bdb934-414c-4676-be00-9580c6645b9e"/>
+
+<h4>Registro</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9a659461-ae8f-467b-b358-b8b28f1157c3"/>
+
+<h4>Login</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/13dd3286-eed5-4120-a388-e0a908460fd2"/>
+
+<h4>Erro</h4>
+<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/7e2cb6a2-b558-493c-9db9-f31046f65ee2"/>
+
 </div>
-
-<div>
- <h3>📱 Versão Mobile</h3>
- <h4>Home</h4>
- <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/f73e66d9-4c57-4bdf-b388-510d9b543158"/> 
-
- <h4>Pedidos</h4>
- <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/f8f724a1-0e51-4025-bcf0-de077b7d31b7"/>
-
- <h4>Pedido Aprovado</h4>
- <img width="200px" src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/0e2f60f9-1e72-4030-be79-d6c7f7be236b"/>
-</div>
-
-
-
-
 
