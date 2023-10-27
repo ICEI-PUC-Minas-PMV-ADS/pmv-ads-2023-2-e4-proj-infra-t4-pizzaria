@@ -9,7 +9,6 @@ import Product from './pages/Product'
 import './styles/global.css'
 
 function App() {
-
   return (
     <Home/>
   )

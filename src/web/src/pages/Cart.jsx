@@ -9,7 +9,7 @@ import { useSelector } from "react-redux";
 import StripeCheckout from "react-stripe-checkout";
 import { useState } from "react";
 
-const KEY = process.env.REACT_APP_STRIPE;
+const KEY = import.meta.env.REACT_APP_STRIPE;
 
 const Cart = () => {
   const cart = useSelector((state) => state.cart);
