@@ -28,27 +28,29 @@
 | Testes | CT 005 Verificar se as informações de cada pizza está correta|  
 |------|-----------------------------------------|
 |Critérios de êxito| Os ingredientes de cada pizza aparecem corretamente    |
-| Link da evidência em vídeo ou imagem ||
-| Comentário | ⚠️ Pendente |
+| Link da evidência em vídeo ou imagem |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/ff979001-ee5c-4f95-8191-5287a714362b)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/f492c286-2b04-4fad-be42-88c257faa2ff)|
+| Comentário | ✅  Concluído com sucesso |
 
 | Testes  | CT 006 Verificar se o usuário consegue a informação da localização da pizzaria |  
 |------|-----------------------------------------|
 |Critérios de êxito| cliente conseguir acessar o endereço da pizzaria  |
-| Link da evidência em vídeo ou imagem ||
-| Comentário | ⚠️ Pendente |
+| Link da evidência em vídeo ou imagem |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/fa11bcef-1124-4e2f-b7c5-b0893568f2f8)![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/44b139f9-68a1-4517-b6eb-fd0474b25859)|
+| Comentário | ✅  Concluído com sucesso |
 
 |  Testes | CT 007 Verificar disponibilidade do ebook |  
 |------|-----------------------------------------|
 |Critérios de êxito|  Cliente conseguir fazer o download do ebook   |
-| Link da evidência em vídeo ou imagem ||
-| Comentário | ⚠️ Pendente  |
+| Link da evidência em vídeo ou imagem |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/6d0f7c3d-e63d-4dee-a55d-fb0983bf30c8)
+|
+| Comentário | ✅  Concluído com sucesso  |
 
 
 |  Testes | CT 008 Verificar se a pizzaria recebeu a solicitação de reserva |  
 |------|-----------------------------------------|
 |Critérios de êxito| Pizzaria recebeu o email com a solicitação de reserva da mesa |
-| Link da evidência em vídeo ou imagem ||
-| Comentário | ⚠️ Pendente |
+| Link da evidência em vídeo ou imagem |![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/5b5053e6-b469-4e42-928f-df69387477cb)
+|
+| Comentário | ✅  Concluído com sucesso  |
 
 
 |  Testes  | CT 009 Verificar se o usuário consegue adicionar/visualizar/deletar pizzas em uma aba de favoritos |  
@@ -57,15 +59,19 @@
 |Critérios de êxito| Cliente conseguir acessar as pizzas disponíveis ||
 | Comentário | ⚠️ Pendente |
 
-|  Testes | CT 010 Verificar solicitação de reserva do espaço da pizzaria |  
+<!-- 
+|  Testes | CT 010 Verificar se o usuário consegue adicionar suas pizzas na guia de favoritos |  
 |------|-----------------------------------------|
 |Critérios de êxito| RF- 010 O sistema deverá permitir ao usuário selecionar suas pizzas favoritas, colocando-as em uma guia separada para que possa acessa-las com maior facilidade   |
 | Link da evidência em vídeo ou imagem ||
 | Comentário | ⚠️ Pendente |
 
+-->
 
-| Testes  | CT 011 Verificar se o email do usuário com reservas de espaço são enviados para a pizzaria |  
+
+| Testes  | CT 010 Verificar se o email do usuário com reservas de espaço são enviados para a pizzaria |  
 |------|-----------------------------------------|
-|Critérios de êxito| RF- 011 O sistema deverá permitir ao usuário solicitar reserva de uma area do estabelecimento, para confraternização, seja para empresa, aniversário e/ou casamento. Informando: nome, quantidade de pessoas, tipo de evento, data, horário da reserva e dados para contato (telefone e email).  |
-| Link da evidência em vídeo ou imagem | Pizzaria recebeu o email com a solicitação de reserva da mesa. |
-| Comentário | ⚠️ Pendente |
+| Link da evidência em vídeo ou imagem | ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9280cdfd-3616-432d-871f-74e7221505f9)|
+|Critérios de êxito| Pizzaria recebeu o email com a solicitação de reserva da mesa ||
+| Comentário | ✅  Concluído com sucesso|
+
