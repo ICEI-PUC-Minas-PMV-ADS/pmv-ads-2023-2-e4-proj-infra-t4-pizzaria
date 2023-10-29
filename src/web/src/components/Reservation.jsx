@@ -21,7 +21,7 @@ const Reservation = () => {
             action="https://formsubmit.co/walberg.s48@gmail.com"
             method="POST"
           >
-            <input type="hidden" name="_next" value="http://localhost:5173/"/>
+            <input type="hidden" name="_next" value="http://localhost:5173/home"/>
             <input
               type="text"
               name="nome"

@@ -17,7 +17,7 @@ const Navbar = () => {
           </div>
         </div>
         <div className="Center flex-1 text-center">
-          <Link to={`/`}>
+          <Link to={`/home`}>
             <h1 className="font-bold text-2xl text-orange-test cursor-pointer"> PIZZARIA </h1>
           </Link>
         </div>

@@ -12,7 +12,7 @@ const ReservationPlace = () => {
           method="post"
           className="Input flex flex-col gap-5"
         >
-          <input type="hidden" name="_next" value="http://localhost:5173/"/>
+          <input type="hidden" name="_next" value="http://localhost:5173/home"/>
           <input
             type="text"
             name="nome"
