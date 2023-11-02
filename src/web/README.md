@@ -14,7 +14,7 @@ npm install
 
 
 ## 🛞 Rodando a Aplicação
-🛞 ATENÇÃO! Nossa aplicação roda com MongoDB em nuvem, certifique-se que o servidor esteja rodando...
+⚠️ ATENÇÃO! Nossa aplicação roda com MongoDB em nuvem, certifique-se que o servidor esteja rodando...
 <li><a href="../server"> Como rodar o servidor </a></li>
 
 🛞 Rodando o comando
