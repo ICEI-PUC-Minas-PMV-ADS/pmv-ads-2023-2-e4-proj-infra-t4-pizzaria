@@ -13,7 +13,7 @@ export default function TitlePedidos(){
 
 const styles = StyleSheet.create({
     container: {
-        padding: 20,
+        paddingTop: 30,
    },
     titulo:{
         fontSize: 24,
