@@ -5,7 +5,7 @@ import Login from './src/screens/Login';
 export default function App() {
   return (
     <>
-      <Pedidos/>
+      <Login/>
       <StatusBar barStyle="light-content" />
     </>
   );
