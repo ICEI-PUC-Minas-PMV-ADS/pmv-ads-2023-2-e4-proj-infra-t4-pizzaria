@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         top: '25%',
         borderWidth: 1,
-        borderColor: 'C0C0C0',
+        borderColor: '#C0C0C0',
         height: 300,
         margin: 5,
         borderRadius: 20,
@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
         width: 300,
         borderRadius: 20,
         textAlign: 'center',
-        borderColor: 'C0C0C0'
+        borderColor: '#C0C0C0'
     },
     button: {
         height: 30,
