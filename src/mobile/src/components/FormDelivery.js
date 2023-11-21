@@ -1,6 +1,8 @@
-import { StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native";
+import React, {useState} from 'react';
+import { Alert, Modal, StyleSheet, Text, TextInput, TouchableOpacity, View } from "react-native";
 
 export default function FormDelivery() {
+  const [modalVisible, setModalVisible] = useState(false);
   return (
     <View style={styles.container}>
       <Text style={styles.titulo}>Digite Suas Informações</Text>
@@ -19,10 +21,29 @@ export default function FormDelivery() {
         <TextInput 
           placeholder="Endereço"
           style={styles.input}/>
-
+         <Modal
+            animationType="slide"
+            transparent={true}
+            visible={modalVisible}
+            onRequestClose={() => {
+              Alert.alert('Modal has been closed.');
+              setModalVisible(!modalVisible);
+            }}>
+            <View style={styles.centeredView}>
+              <View style={styles.modalView}>
+                <Text style={styles.anuncio}> Obrigado pela preferência. {'\n'}Sua pizza já está sendo preparada.</Text>
+                <TouchableOpacity
+                  style={[styles.buttonConf, styles.buttonClose]}
+                  onPress={() => setModalVisible(!modalVisible)}>
+                  <Text style={styles.buttonAnuncio}>OK</Text>
+                </TouchableOpacity>
+              </View>
+          </View>
+          </Modal>
           <TouchableOpacity
             activeOpacity={0.7}
-            style={styles.button}>
+            style={styles.button}
+            onPress={() => setModalVisible(true)}>
             <Text style={styles.buttonName}>Fechar Pedido</Text>
           </TouchableOpacity>
       </View>
@@ -78,10 +99,62 @@ const styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center"
   },
-
+    
   buttonName: {
     color: "#FEBA26",
     fontSize: 20,
     fontWeight: "bold"
-  }
+  },
+
+  buttonAnuncio: {
+    color: "white",
+    fontSize: 18,
+    fontWeight: "bold"
+  },
+  
+
+  buttonConf: {
+
+    height: 50,
+    width: 110,
+    margin: 5,
+    borderWidth: 1,
+    borderRadius: 50,
+    borderColor:"#F55529",
+    backgroundColor: "#F55529",
+
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center"
+  },
+
+  modalView: {
+    margin: 20,
+    backgroundColor: 'white',
+    borderRadius: 20,
+    borderWidth: 2,
+    borderColor:'#F55529',
+    padding: 70,
+    alignItems: 'center',
+    shadowColor: '#000',
+    shadowOffset: {
+      width: 4,
+      height: 4,
+    },
+    shadowOpacity: 0.25,
+    shadowRadius: 4,
+    elevation: 6,
+  },
+  anuncio: {
+    width: 300,
+    height: 50,
+    display:'flex',
+    textAlign: 'center',
+    justifyContent: 'center',
+    marginBottom: 20,
+    fontSize: 18,
+    fontWeight: "bold",
+    color: "#121A2C",
+  },
+  
 })
