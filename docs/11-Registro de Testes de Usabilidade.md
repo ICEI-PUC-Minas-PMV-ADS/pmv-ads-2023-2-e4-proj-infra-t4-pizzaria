@@ -21,7 +21,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcelo Gonçalves   	| CTU-02	 | 3MIN | 11 | 0 | 0 | OK |
 | Marcos Ribeiro Souza | CTU-02 	| 6MIN | 9  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-02  | 4MIN | 8  | 0 | 0 | OK |
-![telaLogin](docs/img/Login.png)
+![telaLogin]([docs/img/Login.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/1ea9bc1b03d2f6a7ad45c02b27e16d0ef0bd24ea/docs/img/Login.png))
 
 **CTU-03 – CTU-03 – Registro**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
