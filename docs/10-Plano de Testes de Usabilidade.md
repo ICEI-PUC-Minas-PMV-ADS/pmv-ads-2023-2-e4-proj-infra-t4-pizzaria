@@ -28,7 +28,7 @@ Ao final, será feito um comparativo dos resultados de cada usuário participant
 | **Ações necessárias** 	| iniciar o aplicativo;  realizar o cadastro no aplicativo; 	|
 |Critério de Êxito | - O usuário efetuou registro com sucesso. |
 
-| **Caso de Teste** 	| **CTU-04 – Visualização de items na pagina inicial** 	|
+| **Caso de Teste** 	| **CTU-04 – Visualização de pizzas na pagina inicial** 	|
 |:---:	|:---:	|
 | **Objetivo do Teste** 	| Verificar se o aplicativo exibe corretamente os items na página inicial	|
 | **Ações necessárias** 	| iniciar o aplicativo;  logar no aplicativo;<br> Verificar pizzas disponiveis ;	|
