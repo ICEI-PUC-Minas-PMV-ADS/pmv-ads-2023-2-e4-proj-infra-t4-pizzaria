@@ -7,9 +7,9 @@ export default function Pedidos() {
   return (
     <View style={styles.container}>
       <HeaderOrder />
-      <ScrollView 
+      <ScrollView
         showsVerticalScrollIndicator={false}
-        contentContainerStyle={{paddingBottom: 100}}
+        contentContainerStyle={{ paddingBottom: 100 }}
       >
         <Order />
         <Order />
@@ -32,4 +32,5 @@ const styles = StyleSheet.create({
     height: "100%",
     paddingHorizontal: 20,
   },
+
 });

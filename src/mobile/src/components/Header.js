@@ -1,14 +1,23 @@
-import { StyleSheet, Text, View } from "react-native";
+import { StyleSheet, Text, View, TouchableOpacity } from "react-native";
+import Icon from 'react-native-vector-icons/FontAwesome';
+import { useNavigation } from '@react-navigation/native';
+
 
 export default function Header(){
+    const navigation = useNavigation();
+    
+    const handleCreateAccountClick = () => {
+        navigation.navigate("Pedidos");
+    };
     return(
         <View style={styles.container}>
+            
             <Text style={styles.logo}>
                 PIZZARIA
             </Text>
-            <Text>
-                Loja 
-            </Text>
+            <TouchableOpacity onPress={handleCreateAccountClick}>
+            <Icon Li name="shopping-bag" size={24} color="#F55529" />
+            </TouchableOpacity>
         </View>
     )
 }

@@ -5,7 +5,7 @@ import Icon from 'react-native-vector-icons/FontAwesome';
 
 const Home = () => {
 
-
+ 
 
     return (
         <View style={styles.container}>

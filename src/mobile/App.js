@@ -1,14 +1,19 @@
+import React from 'react';
 import { StatusBar } from 'react-native';
-import Pedidos from './src/screens/Pedidos';
-import Login from './src/screens/Login';
-import Registro from './src/screens/Registro';
+import { Provider } from 'react-redux';
+import { PersistGate } from 'redux-persist/integration/react';
+import Navigation from './Navigation'; 
+import { store, persistor } from './src/redux/store'; 
 
 export default function App() {
   return (
-    <>
-      <Login/>
-      <StatusBar barStyle="light-content" />
-    </>
+    <Provider store={store}>
+      <PersistGate loading={null} persistor={persistor}>
+        <>
+          <StatusBar barStyle="light-content" />
+          <Navigation />
+        </>
+      </PersistGate>
+    </Provider>
   );
 }
-
