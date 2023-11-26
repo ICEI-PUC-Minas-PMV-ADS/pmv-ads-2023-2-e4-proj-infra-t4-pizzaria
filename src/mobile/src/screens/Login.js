@@ -10,8 +10,8 @@ import { useNavigation } from '@react-navigation/native';
 
 
 const Login = () => {
-    const [username, setUsername] = useState("");
-    const [password, setPassword] = useState("");
+    const [username, setUsername] = useState('');
+    const [password, setPassword] = useState('');
     const dispatch = useDispatch();
     const { isFetching, currentUser } = useSelector((state) => state.user);
     const navigation = useNavigation();
@@ -22,6 +22,7 @@ const Login = () => {
         await login(dispatch, { username, password });
     
         if (currentUser) {
+            dispatch(login)
             navigation.navigate("Home");
         }else{
             console.log("Login Fail")
@@ -38,19 +39,20 @@ const Login = () => {
                     <Text style={styles.text}>Login</Text>
                     <TextInput
                         style={styles.input}
-                        onChangeText={(text) => setUsername(text)}
-                        placeholder="Email"
+                        onChangeText= {setUsername}
+                        value={username}
+                        placeholder="Usuário"
                         keyboardType='email-address'
                         clearTextOnFocus={true}
-                        onChange={(e) => setUsername(e.target.value)}
+
                     />
                     <TextInput
                         style={styles.input}
-                        onChangeText={(text) => setPassword(text)}
+                        onChangeText={setPassword}
+                        value={password}
                         placeholder="Senha"
                         secureTextEntry={true}
                         clearTextOnFocus={true}
-                        onChange={(e) => setPassword(e.target.value)}
                     />
 
                     <TouchableOpacity style={styles.button} onPress={handleClick} disabled={isFetching}>

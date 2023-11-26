@@ -9,23 +9,30 @@ export default function Order() {
           style={styles.image}
           resizeMode="contain"
           source={{
-            uri: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza2.png?raw=true",
+            uri: "https://github.com/walbergomes/imgs-eixo4/blob/main/pizza1.png?raw=true",
           }}
         />
 
         <View style={styles.namePizza}>
           <View>
-            <Text style={styles.titulo}>Margherita</Text>
-            <Text style={styles.subtitulo}>Separando pedido...</Text>
+            <Text style={styles.titulo}>Queijos</Text>
+            <Text style={styles.subtitulo}>1 Und.</Text>
           </View>
           <Text style={styles.price}>
             <Text style={styles.cifrao}>$ </Text>
             42,00
           </Text>
+          
         </View>
+        
+        
+        
 
       </View>
     </View>
+    
+    
+    
   );
 }
 

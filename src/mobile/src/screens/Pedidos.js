@@ -14,12 +14,6 @@ export default function Pedidos() {
         <Order />
         <Order />
         <Order />
-        <Order />
-        <Order />
-        <Order />
-        <Order />
-        <Order />
-
         <FormDelivery />
       </ScrollView>
     </View>
