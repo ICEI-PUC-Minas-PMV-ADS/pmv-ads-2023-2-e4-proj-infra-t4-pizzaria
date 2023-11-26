@@ -21,7 +21,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcelo Gonçalves   	| CTU-02	 | 3MIN | 11 | 0 | 0 | OK |
 | Marcos Ribeiro Souza | CTU-02 	| 6MIN | 9  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-02  | 4MIN | 8  | 0 | 0 | OK |
-![telaLogin]([docs/img/Login.png](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/blob/1ea9bc1b03d2f6a7ad45c02b27e16d0ef0bd24ea/docs/img/Login.png))
+![telaLogin]([img/Login.png)
 
 **CTU-03 – CTU-03 – Registro**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
@@ -31,7 +31,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcelo Gonçalves   	| CTU-03	 | 5MIN | 9  | 0 | 0 | OK |
 | Marcos Ribeiro Souza | CTU-03 	| 8MIN | 12  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-03  | 10MIN | 15  | 1 | 1 | OK |
-![telaRegistro](docs/img/Registro.png)
+![telaRegistro](img/Registro.png)
 
 **CTU-04 – CTU-04 – Visualização de pizzas na pagina inicial **
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
@@ -41,7 +41,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcelo Gonçalves   	| CTU-04	 | 6MIN | 15 | 1 | 0 | OK |
 | Marcos Ribeiro Souza | CTU-04 	| 3MIN | 9  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-04  | 4MIN | 8  | 1 | 0 | OK |
-![telaHome](docs/img/Home.png)
+![telaHome](img/Home.png)
 
 
 **CTU-05 – CTU-05 – Visualização de itens no carrinho**
@@ -52,7 +52,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Marcelo Gonçalves   	| CTU-05	 | 2MIN | 9 | 0 | 0 | OK |
 | Marcos Ribeiro Souza | CTU-05 	| 6MIN | 7  | 0 | 0 | OK |
 | Ana Paula Santana    | CTU-05  | 4MIN | 11  | 0 | 0 | OK |
-![telaPedido](docs/img/Carrinho.png)
-![telaPedidoConcluido](docs/img/PedidoConcluido.png)
+![telaPedido](img/Carrinho.png)
+![telaPedidoConcluido](img/PedidoConcluido.png)
 
 
