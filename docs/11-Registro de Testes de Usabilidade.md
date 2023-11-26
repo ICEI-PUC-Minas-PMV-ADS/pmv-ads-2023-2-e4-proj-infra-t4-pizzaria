@@ -33,7 +33,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 | Ana Paula Santana    | CTU-03  | 10MIN | 15  | 1 | 1 | OK |
 ![telaRegistro](img/Registro.png)
 
-**CTU-04 - Visualização de pizzas na pagina inicial**
+**CTU-04 – CTU-04 Visualização de pizzas na pagina inicial**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Maria de Fátima	     | CTU-04 	| 6MIN | 10  | 0 | 0 | OK |
@@ -44,7 +44,7 @@ Nesta etapa não realizaremos todos os testes de usabilidade pois as telas entre
 ![telaHome](img/Home.png)
 
 
-**CTU-05 –  Visualização de itens no carrinho**
+**CTU-05 – CTU-05  Visualização de itens no carrinho**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Maria de Fátima	     | CTU-05 	| 4MIN | 8  | 0 | 0 | OK |
