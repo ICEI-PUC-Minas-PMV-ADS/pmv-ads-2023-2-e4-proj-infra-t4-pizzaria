@@ -143,11 +143,6 @@ const styles = StyleSheet.create({
         paddingTop: StatusBar.currentHeight,
     },
 
-
-
-
-
-
 });
 
 export default Home;
