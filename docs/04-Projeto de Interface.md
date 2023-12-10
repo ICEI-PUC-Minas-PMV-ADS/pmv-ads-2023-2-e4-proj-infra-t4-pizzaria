@@ -85,19 +85,19 @@ São protótipos usados em design de interface para sugerir a estrutura de um si
 <div>
  <h3>📱Versão Mobile </h3>
 <h4>Home</h4>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/14dae4c8-8156-4c65-9cec-89b7defaf553"/>
+<img src="img\Home-Mobile.jpeg"/>
 
 <h4>Checkout</h4>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/d1696677-d647-4780-955d-146a31441e08"/>
+<img src="img\Pedido-Mobile.jpeg"/>
 
 <h4>Pedido Confirmado</h4>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/4899078e-223c-4eef-87a7-aca2d6cf17b7"/>
+<img src="img\Confirmacao-Mobile.jpeg"/>
 
 <h4>Registro</h4>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/9a659461-ae8f-467b-b358-b8b28f1157c3"/>
+<img src="img\Registro-Mobile.jpeg"/>
 
 <h4>Login</h4>
-<img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria/assets/103972585/13dd3286-eed5-4120-a388-e0a908460fd2"/>
+<img src="img\Login-Mobile.jpeg"/>
 
 
 </div>
