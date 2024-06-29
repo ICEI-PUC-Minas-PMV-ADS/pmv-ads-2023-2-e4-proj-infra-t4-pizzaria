@@ -1,0 +1,24 @@
+message: Please cite this software using these metadata.
+title: Pizzaria
+authors:
+  - family-names: Gomes Soares
+    given-names: Walber
+  - family-names: Machado Madureira
+    given-names: Juliana
+  - family-names: Silva dos Santos
+    given-names: Rayane 
+  - family-names: Filippe de Assis Soares Leão
+    given-names: Hiago 
+  - family-names: Gonçalves Teles
+    given-names: Leonardo 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Pedro 
+keywords:
+  - Pizzaria
+  - E-commerce
+  - Vendas
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e4-proj-infra-t4-pizzaria
+version: 1.0.0
+date-released: 2023-09-07
